@@ -1,0 +1,6 @@
+const noaacdc = "https://www.ncdc.noaa.gov/cdo-web/api/v2/";
+const noaacdcToken = "QlgvTyqYTXklbQNEXrpNYyiKRmlsvXJf";
+const snotelwygis = "https://services.wygisc.org/hostgis/rest/services/GeoHub/NRCSSNOTEL/MapServer/0/query?where=1%3D1&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=true&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&having=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&historicMoment=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentOnly=false&datumTransformation=&parameterValues=&rangeValues=&quantizationParameters=&f=pjson";
+const snotelsitesjson = "assets/data/snotelsites.json";
+const snotelsitesjsonUrl = "http://jasonflaherty.com/snoteldata/snotelsites.json";
+const attributionMap = "Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community";

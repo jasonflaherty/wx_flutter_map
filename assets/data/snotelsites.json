@@ -1,0 +1,7877 @@
+[
+    {
+        "Name": "Annie Springs",
+        "Lat": "42.87007",
+        "Lng": "-122.16518",
+        "SiteID": "1000",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "6010"
+    },
+    {
+        "Name": "Long Lake",
+        "Lat": "58.186",
+        "Lng": "-133.83217",
+        "SiteID": "1001",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "850"
+    },
+    {
+        "Name": "Point Mackenzie",
+        "Lat": "61.3898",
+        "Lng": "-150.02667",
+        "SiteID": "1002",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "250"
+    },
+    {
+        "Name": "Mcneil Canyon",
+        "Lat": "59.74433",
+        "Lng": "-151.25133",
+        "SiteID": "1003",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1320"
+    },
+    {
+        "Name": "Ute Creek",
+        "Lat": "37.61497",
+        "Lng": "-105.37327",
+        "SiteID": "1005",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10650"
+    },
+    {
+        "Name": "Lewis Peak",
+        "Lat": "40.3572",
+        "Lng": "-116.8647",
+        "SiteID": "1006",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7370"
+    },
+    {
+        "Name": "Onion Park",
+        "Lat": "46.91348",
+        "Lng": "-110.8536",
+        "SiteID": "1008",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7410"
+    },
+    {
+        "Name": "Stringer Creek",
+        "Lat": "46.9269",
+        "Lng": "-110.90198",
+        "SiteID": "1009",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6550"
+    },
+    {
+        "Name": "Crazyman Flat",
+        "Lat": "42.6381",
+        "Lng": "-120.94917",
+        "SiteID": "1010",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "6180"
+    },
+    {
+        "Name": "MF Nooksack",
+        "Lat": "48.82453",
+        "Lng": "-121.92951",
+        "SiteID": "1011",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4970"
+    },
+    {
+        "Name": "Swift Creek",
+        "Lat": "46.1638",
+        "Lng": "-122.18402",
+        "SiteID": "1012",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4440"
+    },
+    {
+        "Name": "Temple Fork",
+        "Lat": "41.793",
+        "Lng": "-111.54605",
+        "SiteID": "1013",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7406"
+    },
+    {
+        "Name": "Middle Fork Camp",
+        "Lat": "39.7956",
+        "Lng": "-106.0273",
+        "SiteID": "1014",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "8940"
+    },
+    {
+        "Name": "Sage Creek Basin",
+        "Lat": "41.401",
+        "Lng": "-107.25717",
+        "SiteID": "1015",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7850"
+    },
+    {
+        "Name": "Long Valley",
+        "Lat": "44.78835",
+        "Lng": "-116.08878",
+        "SiteID": "1016",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "4890"
+    },
+    {
+        "Name": "Vacas Locas",
+        "Lat": "36.02635",
+        "Lng": "-106.81362",
+        "SiteID": "1017",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "9306"
+    },
+    {
+        "Name": "Arapaho Ridge",
+        "Lat": "40.35098",
+        "Lng": "-106.38142",
+        "SiteID": "1030",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10960"
+    },
+    {
+        "Name": "Never Summer",
+        "Lat": "40.40405",
+        "Lng": "-105.95583",
+        "SiteID": "1031",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10280"
+    },
+    {
+        "Name": "Rawah",
+        "Lat": "40.7075",
+        "Lng": "-106.0076",
+        "SiteID": "1032",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9020"
+    },
+    {
+        "Name": "Zirkel",
+        "Lat": "40.79488",
+        "Lng": "-106.59535",
+        "SiteID": "1033",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9340"
+    },
+    {
+        "Name": "Sierra Blanca",
+        "Lat": "33.40472",
+        "Lng": "-105.78722",
+        "SiteID": "1034",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "10280"
+    },
+    {
+        "Name": "Moraine",
+        "Lat": "61.37727",
+        "Lng": "-148.99917",
+        "SiteID": "1035",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "2100"
+    },
+    {
+        "Name": "Johnsons Camp",
+        "Lat": "64.5646",
+        "Lng": "-164.29257",
+        "SiteID": "1036",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "25"
+    },
+    {
+        "Name": "Nuka Glacier",
+        "Lat": "59.69867",
+        "Lng": "-150.70967",
+        "SiteID": "1037",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1250"
+    },
+    {
+        "Name": "Schweitzer Saddle",
+        "Lat": "48.37431",
+        "Lng": "-116.63926",
+        "SiteID": "1038",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6110"
+    },
+    {
+        "Name": "Cascade Mountain",
+        "Lat": "40.283",
+        "Lng": "-111.60992",
+        "SiteID": "1039",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7774"
+    },
+    {
+        "Name": "Mccoy Park",
+        "Lat": "39.60468",
+        "Lng": "-106.54128",
+        "SiteID": "1040",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9480"
+    },
+    {
+        "Name": "Beaver Ck Village",
+        "Lat": "39.59917",
+        "Lng": "-106.51142",
+        "SiteID": "1041",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "8500"
+    },
+    {
+        "Name": "Wild Basin",
+        "Lat": "40.20105",
+        "Lng": "-105.60248",
+        "SiteID": "1042",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9560"
+    },
+    {
+        "Name": "Sentinel Butte",
+        "Lat": "48.86133",
+        "Lng": "-118.39843",
+        "SiteID": "1043",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4680"
+    },
+    {
+        "Name": "Toketee Airstrip",
+        "Lat": "43.22718",
+        "Lng": "-122.42537",
+        "SiteID": "1044",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "3240"
+    },
+    {
+        "Name": "Crow Creek",
+        "Lat": "41.2287",
+        "Lng": "-105.38278",
+        "SiteID": "1045",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8330"
+    },
+    {
+        "Name": "Cinnabar Park",
+        "Lat": "41.23837",
+        "Lng": "-106.23095",
+        "SiteID": "1046",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9574"
+    },
+    {
+        "Name": "Little Snake River",
+        "Lat": "41.07053",
+        "Lng": "-106.94283",
+        "SiteID": "1047",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8915"
+    },
+    {
+        "Name": "Mcknight Cabin",
+        "Lat": "33.00812",
+        "Lng": "-107.86975",
+        "SiteID": "1048",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "9240"
+    },
+    {
+        "Name": "Forestdale Creek",
+        "Lat": "38.68245",
+        "Lng": "-119.9597",
+        "SiteID": "1049",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "8017"
+    },
+    {
+        "Name": "Horse Meadow",
+        "Lat": "38.83652",
+        "Lng": "-119.88732",
+        "SiteID": "1050",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "8557"
+    },
+    {
+        "Name": "Burnside Lake",
+        "Lat": "38.71943",
+        "Lng": "-119.8942",
+        "SiteID": "1051",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "8129"
+    },
+    {
+        "Name": "Summit Meadow",
+        "Lat": "38.39747",
+        "Lng": "-119.53522",
+        "SiteID": "1052",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "9313"
+    },
+    {
+        "Name": "Myrtle Creek",
+        "Lat": "48.72263",
+        "Lng": "-116.46312",
+        "SiteID": "1053",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "3520"
+    },
+    {
+        "Name": "Farmington Lower",
+        "Lat": "40.992",
+        "Lng": "-111.81702",
+        "SiteID": "1054",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "6779"
+    },
+    {
+        "Name": "Upper Tsaina River",
+        "Lat": "61.19112",
+        "Lng": "-145.64807",
+        "SiteID": "1055",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1750"
+    },
+    {
+        "Name": "Lightning Ridge",
+        "Lat": "41.35891",
+        "Lng": "-111.48749",
+        "SiteID": "1056",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8215"
+    },
+    {
+        "Name": "Glen Cove",
+        "Lat": "38.87583",
+        "Lng": "-105.07367",
+        "SiteID": "1057",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11460"
+    },
+    {
+        "Name": "Grayback",
+        "Lat": "37.47033",
+        "Lng": "-106.53783",
+        "SiteID": "1058",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11620"
+    },
+    {
+        "Name": "Cochetopa Pass",
+        "Lat": "38.16283",
+        "Lng": "-106.59883",
+        "SiteID": "1059",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10020"
+    },
+    {
+        "Name": "Sharkstooth",
+        "Lat": "37.50357",
+        "Lng": "-108.11373",
+        "SiteID": "1060",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10720"
+    },
+    {
+        "Name": "Bear River",
+        "Lat": "40.06153",
+        "Lng": "-107.00955",
+        "SiteID": "1061",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9080"
+    },
+    {
+        "Name": "Anchor River Divide",
+        "Lat": "59.85972",
+        "Lng": "-151.315",
+        "SiteID": "1062",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1653"
+    },
+    {
+        "Name": "Kachemak Creek",
+        "Lat": "59.72893",
+        "Lng": "-150.66113",
+        "SiteID": "1063",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1660"
+    },
+    {
+        "Name": "Middle Fork Bradley",
+        "Lat": "59.77683",
+        "Lng": "-150.75733",
+        "SiteID": "1064",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "2300"
+    },
+    {
+        "Name": "Gutz Peak",
+        "Lat": "37.49617",
+        "Lng": "-113.94235",
+        "SiteID": "1065",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "6763"
+    },
+    {
+        "Name": "Gardner Peak",
+        "Lat": "37.40083",
+        "Lng": "-113.45988",
+        "SiteID": "1066",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8322"
+    },
+    {
+        "Name": "Carson Pass",
+        "Lat": "38.6927",
+        "Lng": "-120.0022",
+        "SiteID": "1067",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "8360"
+    },
+    {
+        "Name": "Sawmill Ridge",
+        "Lat": "47.15992",
+        "Lng": "-121.42172",
+        "SiteID": "1068",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4640"
+    },
+    {
+        "Name": "Lynn Lake",
+        "Lat": "47.20172",
+        "Lng": "-121.77972",
+        "SiteID": "1069",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3900"
+    },
+    {
+        "Name": "Anchorage Hillside",
+        "Lat": "61.11483",
+        "Lng": "-149.66683",
+        "SiteID": "1070",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "2080"
+    },
+    {
+        "Name": "Esther Island",
+        "Lat": "60.798",
+        "Lng": "-148.0857",
+        "SiteID": "1071",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "50"
+    },
+    {
+        "Name": "Kantishna",
+        "Lat": "63.54167",
+        "Lng": "-150.994",
+        "SiteID": "1072",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1550"
+    },
+    {
+        "Name": "Mt. Eyak",
+        "Lat": "60.55",
+        "Lng": "-145.745",
+        "SiteID": "1073",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1405"
+    },
+    {
+        "Name": "Swan Lake Mtn",
+        "Lat": "42.41323",
+        "Lng": "-121.68002",
+        "SiteID": "1077",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "6830"
+    },
+    {
+        "Name": "Sun Pass",
+        "Lat": "42.78637",
+        "Lng": "-121.97715",
+        "SiteID": "1078",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5400"
+    },
+    {
+        "Name": "Milk Shakes",
+        "Lat": "45.9821",
+        "Lng": "-117.94883",
+        "SiteID": "1079",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5580"
+    },
+    {
+        "Name": "Brown Top",
+        "Lat": "48.92755",
+        "Lng": "-121.19713",
+        "SiteID": "1080",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5830"
+    },
+    {
+        "Name": "Ragged Mountain",
+        "Lat": "47.85583",
+        "Lng": "-117.03667",
+        "SiteID": "1081",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "4210"
+    },
+    {
+        "Name": "Grand Targhee",
+        "Lat": "43.77933",
+        "Lng": "-110.92783",
+        "SiteID": "1082",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9260"
+    },
+    {
+        "Name": "Tres Ritos",
+        "Lat": "36.12778",
+        "Lng": "-105.52714",
+        "SiteID": "1083",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "8600"
+    },
+    {
+        "Name": "Miller Woods",
+        "Lat": "45.24755",
+        "Lng": "-123.27563",
+        "SiteID": "1084",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "420"
+    },
+    {
+        "Name": "Cayuse Pass",
+        "Lat": "46.86954",
+        "Lng": "-121.5343",
+        "SiteID": "1085",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5240"
+    },
+    {
+        "Name": "Tokositna Valley",
+        "Lat": "62.63",
+        "Lng": "-150.77617",
+        "SiteID": "1089",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "850"
+    },
+    {
+        "Name": "Upper Nome Creek",
+        "Lat": "65.3671",
+        "Lng": "-146.592",
+        "SiteID": "1090",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "2520"
+    },
+    {
+        "Name": "Independence Mine",
+        "Lat": "61.79117",
+        "Lng": "-149.27967",
+        "SiteID": "1091",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "3550"
+    },
+    {
+        "Name": "Exit Glacier",
+        "Lat": "60.19033",
+        "Lng": "-149.62117",
+        "SiteID": "1092",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "400"
+    },
+    {
+        "Name": "Chisana",
+        "Lat": "62.069",
+        "Lng": "-142.049",
+        "SiteID": "1093",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "3320"
+    },
+    {
+        "Name": "Monahan Flat",
+        "Lat": "63.30533",
+        "Lng": "-147.64633",
+        "SiteID": "1094",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "2710"
+    },
+    {
+        "Name": "Sugarloaf Mtn",
+        "Lat": "61.081",
+        "Lng": "-146.2995",
+        "SiteID": "1095",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "550"
+    },
+    {
+        "Name": "May Creek",
+        "Lat": "61.34783",
+        "Lng": "-142.70967",
+        "SiteID": "1096",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1610"
+    },
+    {
+        "Name": "Timberline",
+        "Lat": "39.67712",
+        "Lng": "-110.43395",
+        "SiteID": "1097",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8736"
+    },
+    {
+        "Name": "Usu Doc Daniel",
+        "Lat": "41.86425",
+        "Lng": "-111.50603",
+        "SiteID": "1098",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8270"
+    },
+    {
+        "Name": "Jones Corral",
+        "Lat": "38.07125",
+        "Lng": "-112.16788",
+        "SiteID": "1099",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9749"
+    },
+    {
+        "Name": "Saint Elmo",
+        "Lat": "38.69978",
+        "Lng": "-106.36801",
+        "SiteID": "1100",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10540"
+    },
+    {
+        "Name": "Chapman Tunnel",
+        "Lat": "39.26217",
+        "Lng": "-106.62931",
+        "SiteID": "1101",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10110"
+    },
+    {
+        "Name": "Hayden Pass",
+        "Lat": "38.29326",
+        "Lng": "-105.8505",
+        "SiteID": "1102",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10720"
+    },
+    {
+        "Name": "Mt. Alyeska",
+        "Lat": "60.95983",
+        "Lng": "-149.08617",
+        "SiteID": "1103",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1540"
+    },
+    {
+        "Name": "Pepper Creek",
+        "Lat": "46.10242",
+        "Lng": "-121.95555",
+        "SiteID": "1104",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "2140"
+    },
+    {
+        "Name": "East Boulder Mine",
+        "Lat": "45.50381",
+        "Lng": "-110.08019",
+        "SiteID": "1105",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6335"
+    },
+    {
+        "Name": "Elk Peak",
+        "Lat": "46.4845",
+        "Lng": "-110.7125",
+        "SiteID": "1106",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7600"
+    },
+    {
+        "Name": "Buckinghorse",
+        "Lat": "47.7086",
+        "Lng": "-123.45747",
+        "SiteID": "1107",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4870"
+    },
+    {
+        "Name": "Calamity",
+        "Lat": "45.90362",
+        "Lng": "-122.21633",
+        "SiteID": "1109",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "2500"
+    },
+    {
+        "Name": "Rainbow Canyon",
+        "Lat": "36.2493",
+        "Lng": "-115.62972",
+        "SiteID": "1110",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7860"
+    },
+    {
+        "Name": "Bristlecone Trail",
+        "Lat": "36.31575",
+        "Lng": "-115.69543",
+        "SiteID": "1111",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8890"
+    },
+    {
+        "Name": "Lee Canyon",
+        "Lat": "36.30537",
+        "Lng": "-115.67508",
+        "SiteID": "1112",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8626"
+    },
+    {
+        "Name": "Tony Grove RS",
+        "Lat": "41.88573",
+        "Lng": "-111.56918",
+        "SiteID": "1113",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "6332"
+    },
+    {
+        "Name": "Garden City Summit",
+        "Lat": "41.9215",
+        "Lng": "-111.4693",
+        "SiteID": "1114",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7705"
+    },
+    {
+        "Name": "Klondike Narrows",
+        "Lat": "41.96769",
+        "Lng": "-111.59713",
+        "SiteID": "1115",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7250"
+    },
+    {
+        "Name": "Lakefork #3",
+        "Lat": "40.5502",
+        "Lng": "-110.3529",
+        "SiteID": "1116",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8464"
+    },
+    {
+        "Name": "Spirit Lk",
+        "Lat": "40.83868",
+        "Lng": "-110.00527",
+        "SiteID": "1117",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "10235"
+    },
+    {
+        "Name": "Lost Creek Resv",
+        "Lat": "41.22155",
+        "Lng": "-111.35947",
+        "SiteID": "1118",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "6082"
+    },
+    {
+        "Name": "Blackhall Mtn",
+        "Lat": "41.05616",
+        "Lng": "-106.71384",
+        "SiteID": "1119",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9820"
+    },
+    {
+        "Name": "Elliot Ridge",
+        "Lat": "39.864",
+        "Lng": "-106.4246",
+        "SiteID": "1120",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10520"
+    },
+    {
+        "Name": "Fort Valley",
+        "Lat": "35.26806",
+        "Lng": "-111.74486",
+        "SiteID": "1121",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "7350"
+    },
+    {
+        "Name": "Hourglass Lake",
+        "Lat": "40.57913",
+        "Lng": "-105.63068",
+        "SiteID": "1122",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9380"
+    },
+    {
+        "Name": "Long Draw Resv",
+        "Lat": "40.5123",
+        "Lng": "-105.7656",
+        "SiteID": "1123",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9980"
+    },
+    {
+        "Name": "Moon Pass",
+        "Lat": "37.96661",
+        "Lng": "-106.55837",
+        "SiteID": "1124",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11140"
+    },
+    {
+        "Name": "Mormon Mtn Summit",
+        "Lat": "34.96964",
+        "Lng": "-111.50922",
+        "SiteID": "1125",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "8500"
+    },
+    {
+        "Name": "Nutrioso",
+        "Lat": "33.89747",
+        "Lng": "-109.15517",
+        "SiteID": "1127",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "8500"
+    },
+    {
+        "Name": "Sargents Mesa",
+        "Lat": "38.28555",
+        "Lng": "-106.37069",
+        "SiteID": "1128",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11530"
+    },
+    {
+        "Name": "Indian Rock",
+        "Lat": "45.99077",
+        "Lng": "-120.80767",
+        "SiteID": "1129",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5360"
+    },
+    {
+        "Name": "Castle Creek",
+        "Lat": "43.6748",
+        "Lng": "-109.3774",
+        "SiteID": "1130",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8400"
+    },
+    {
+        "Name": "Little Goose",
+        "Lat": "44.54315",
+        "Lng": "-107.17865",
+        "SiteID": "1131",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8870"
+    },
+    {
+        "Name": "Soldier Park",
+        "Lat": "44.34847",
+        "Lng": "-107.0136",
+        "SiteID": "1132",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8720"
+    },
+    {
+        "Name": "Pocket Creek",
+        "Lat": "42.7121",
+        "Lng": "-109.4112",
+        "SiteID": "1133",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9360"
+    },
+    {
+        "Name": "Larsen Creek",
+        "Lat": "42.5801",
+        "Lng": "-109.0883",
+        "SiteID": "1134",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9000"
+    },
+    {
+        "Name": "Burts Miller Ranch",
+        "Lat": "40.98492",
+        "Lng": "-110.85075",
+        "SiteID": "1135",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8000"
+    },
+    {
+        "Name": "Toe Jam",
+        "Lat": "41.3187",
+        "Lng": "-116.3408",
+        "SiteID": "1136",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7690"
+    },
+    {
+        "Name": "Vacarro Springs",
+        "Lat": "39.4495",
+        "Lng": "-115.9834",
+        "SiteID": "1137",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7890"
+    },
+    {
+        "Name": "Navajo Whiskey Ck",
+        "Lat": "36.17728",
+        "Lng": "-108.94691",
+        "SiteID": "1138",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "9050"
+    },
+    {
+        "Name": "Chalender",
+        "Lat": "35.26247",
+        "Lng": "-112.06231",
+        "SiteID": "1139",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "7100"
+    },
+    {
+        "Name": "Baker Butte Smt",
+        "Lat": "34.45547",
+        "Lng": "-111.38272",
+        "SiteID": "1140",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "7700"
+    },
+    {
+        "Name": "Upper Taylor",
+        "Lat": "38.99077",
+        "Lng": "-106.75422",
+        "SiteID": "1141",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10640"
+    },
+    {
+        "Name": "Pierce R.S.",
+        "Lat": "46.49597",
+        "Lng": "-115.7957",
+        "SiteID": "1142",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "3080"
+    },
+    {
+        "Name": "Beaver Spring",
+        "Lat": "36.32678",
+        "Lng": "-109.05711",
+        "SiteID": "1143",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "9200"
+    },
+    {
+        "Name": "Blacktail Mtn",
+        "Lat": "47.98288",
+        "Lng": "-114.3543",
+        "SiteID": "1144",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "5650"
+    },
+    {
+        "Name": "Kilfoil Creek",
+        "Lat": "41.24764",
+        "Lng": "-111.41249",
+        "SiteID": "1145",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7220"
+    },
+    {
+        "Name": "Oak Creek",
+        "Lat": "39.3485",
+        "Lng": "-112.32639",
+        "SiteID": "1146",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7850"
+    },
+    {
+        "Name": "Wheeler Peak",
+        "Lat": "39.00995",
+        "Lng": "-114.31021",
+        "SiteID": "1147",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "10060"
+    },
+    {
+        "Name": "Panguitch Lake RS",
+        "Lat": "37.70463",
+        "Lng": "-112.65037",
+        "SiteID": "1148",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8350"
+    },
+    {
+        "Name": "Fish Lake Utah",
+        "Lat": "38.50455",
+        "Lng": "-111.76693",
+        "SiteID": "1149",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8798"
+    },
+    {
+        "Name": "Kalamazoo",
+        "Lat": "39.5579",
+        "Lng": "-114.62762",
+        "SiteID": "1150",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7775"
+    },
+    {
+        "Name": "George Creek",
+        "Lat": "41.91562",
+        "Lng": "-113.41154",
+        "SiteID": "1151",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8964"
+    },
+    {
+        "Name": "Cave Mountain",
+        "Lat": "39.16337",
+        "Lng": "-114.6133",
+        "SiteID": "1152",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "10578"
+    },
+    {
+        "Name": "Buckboard Flat",
+        "Lat": "37.86943",
+        "Lng": "-109.44717",
+        "SiteID": "1153",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8924"
+    },
+    {
+        "Name": "Brian Head",
+        "Lat": "37.67994",
+        "Lng": "-112.85674",
+        "SiteID": "1154",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "10039"
+    },
+    {
+        "Name": "Bird Creek",
+        "Lat": "39.46138",
+        "Lng": "-114.64863",
+        "SiteID": "1155",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7537"
+    },
+    {
+        "Name": "Box Springs",
+        "Lat": "38.49746",
+        "Lng": "-112.00779",
+        "SiteID": "1156",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9228"
+    },
+    {
+        "Name": "Howard Prairie",
+        "Lat": "42.215",
+        "Lng": "-122.3713",
+        "SiteID": "1158",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4580"
+    },
+    {
+        "Name": "Gold Axe Camp",
+        "Lat": "48.9516",
+        "Lng": "-118.9864",
+        "SiteID": "1159",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5360"
+    },
+    {
+        "Name": "Weminuche Creek",
+        "Lat": "37.51976",
+        "Lng": "-107.32152",
+        "SiteID": "1160",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10740"
+    },
+    {
+        "Name": "Black Mountain",
+        "Lat": "40.888",
+        "Lng": "-105.66397",
+        "SiteID": "1161",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "8920"
+    },
+    {
+        "Name": "Blacks Fork Jct",
+        "Lat": "40.95814",
+        "Lng": "-110.5828",
+        "SiteID": "1162",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8869"
+    },
+    {
+        "Name": "EF Blacks Fork GS",
+        "Lat": "40.88472",
+        "Lng": "-110.54056",
+        "SiteID": "1163",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9360"
+    },
+    {
+        "Name": "Bear Grass",
+        "Lat": "44.3253",
+        "Lng": "-122.0938",
+        "SiteID": "1166",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4720"
+    },
+    {
+        "Name": "Smith Ridge",
+        "Lat": "44.30325",
+        "Lng": "-122.04053",
+        "SiteID": "1167",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "3270"
+    },
+    {
+        "Name": "Taos Powderhorn",
+        "Lat": "36.58203",
+        "Lng": "-105.45611",
+        "SiteID": "1168",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "11057"
+    },
+    {
+        "Name": "Shuree",
+        "Lat": "36.78778",
+        "Lng": "-105.23999",
+        "SiteID": "1169",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "10100"
+    },
+    {
+        "Name": "Palo",
+        "Lat": "36.40848",
+        "Lng": "-105.33063",
+        "SiteID": "1170",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "9350"
+    },
+    {
+        "Name": "Trinity",
+        "Lat": "48.0747",
+        "Lng": "-120.8493",
+        "SiteID": "1171",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "2930"
+    },
+    {
+        "Name": "San Antonio Sink",
+        "Lat": "36.8622",
+        "Lng": "-106.22502",
+        "SiteID": "1172",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "9100"
+    },
+    {
+        "Name": "Garita Peak",
+        "Lat": "36.005",
+        "Lng": "-106.54838",
+        "SiteID": "1173",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "10160"
+    },
+    {
+        "Name": "Fairbanks F.O.",
+        "Lat": "64.85",
+        "Lng": "-147.8",
+        "SiteID": "1174",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "450"
+    },
+    {
+        "Name": "Kelly Station",
+        "Lat": "67.93333",
+        "Lng": "-162.28333",
+        "SiteID": "1175",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "310"
+    },
+    {
+        "Name": "Moore Creek Bridge",
+        "Lat": "59.58783",
+        "Lng": "-135.2105",
+        "SiteID": "1176",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "2250"
+    },
+    {
+        "Name": "Prudhoe Bay",
+        "Lat": "70.26666",
+        "Lng": "-148.56666",
+        "SiteID": "1177",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "30"
+    },
+    {
+        "Name": "Bettles Field",
+        "Lat": "66.91667",
+        "Lng": "-151.53333",
+        "SiteID": "1182",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "640"
+    },
+    {
+        "Name": "Sagwon",
+        "Lat": "69.42417",
+        "Lng": "-148.6925",
+        "SiteID": "1183",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1000"
+    },
+    {
+        "Name": "Gooseberry RS Up",
+        "Lat": "38.7882",
+        "Lng": "-111.68892",
+        "SiteID": "1184",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8396"
+    },
+    {
+        "Name": "Black Mesa",
+        "Lat": "37.78972",
+        "Lng": "-108.18365",
+        "SiteID": "1185",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11580"
+    },
+    {
+        "Name": "Fool Creek",
+        "Lat": "39.8687",
+        "Lng": "-105.8675",
+        "SiteID": "1186",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11150"
+    },
+    {
+        "Name": "High Lonesome",
+        "Lat": "40.03592",
+        "Lng": "-105.75471",
+        "SiteID": "1187",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10620"
+    },
+    {
+        "Name": "Wager Gulch",
+        "Lat": "37.88248",
+        "Lng": "-107.3643",
+        "SiteID": "1188",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11100"
+    },
+    {
+        "Name": "American Creek",
+        "Lat": "64.78969",
+        "Lng": "-141.23376",
+        "SiteID": "1189",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1050"
+    },
+    {
+        "Name": "Mcneil River SGS",
+        "Lat": "59.08332",
+        "Lng": "-154.27543",
+        "SiteID": "1191",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "140"
+    },
+    {
+        "Name": "Buck Pasture",
+        "Lat": "40.84456",
+        "Lng": "-110.66068",
+        "SiteID": "1192",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9632"
+    },
+    {
+        "Name": "Summit Lk",
+        "Lat": "41.48953",
+        "Lng": "-118.99663",
+        "SiteID": "1194",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7615"
+    },
+    {
+        "Name": "Golconda",
+        "Lat": "40.88358",
+        "Lng": "-117.58812",
+        "SiteID": "1195",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "6616"
+    },
+    {
+        "Name": "Med Bow",
+        "Lat": "41.37833",
+        "Lng": "-106.34681",
+        "SiteID": "1196",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "10500"
+    },
+    {
+        "Name": "Yankee Reservoir",
+        "Lat": "37.74797",
+        "Lng": "-112.77495",
+        "SiteID": "1197",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8692"
+    },
+    {
+        "Name": "Tent Mtn Lower",
+        "Lat": "40.97852",
+        "Lng": "-115.17215",
+        "SiteID": "1202",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7100"
+    },
+    {
+        "Name": "Stag Mountain",
+        "Lat": "41.408",
+        "Lng": "-115.4464",
+        "SiteID": "1203",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7640"
+    },
+    {
+        "Name": "Columbia Basin",
+        "Lat": "41.67167",
+        "Lng": "-116.07033",
+        "SiteID": "1204",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "6483"
+    },
+    {
+        "Name": "Silver Creek Nv",
+        "Lat": "39.23305",
+        "Lng": "-114.2429",
+        "SiteID": "1205",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8200"
+    },
+    {
+        "Name": "Midas",
+        "Lat": "41.26873",
+        "Lng": "-116.80332",
+        "SiteID": "1206",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "6630"
+    },
+    {
+        "Name": "Merritt Mountain",
+        "Lat": "41.8927",
+        "Lng": "-115.858",
+        "SiteID": "1207",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "6915"
+    },
+    {
+        "Name": "Snowstorm Mtn",
+        "Lat": "41.33981",
+        "Lng": "-116.98044",
+        "SiteID": "1208",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7403"
+    },
+    {
+        "Name": "Corduroy Flat",
+        "Lat": "38.99651",
+        "Lng": "-115.42478",
+        "SiteID": "1209",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8640"
+    },
+    {
+        "Name": "Defiance Mines",
+        "Lat": "39.08527",
+        "Lng": "-114.89977",
+        "SiteID": "1210",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "9302"
+    },
+    {
+        "Name": "Jakes Creek",
+        "Lat": "41.5687",
+        "Lng": "-115.03243",
+        "SiteID": "1211",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7380"
+    },
+    {
+        "Name": "Bar M",
+        "Lat": "34.86136",
+        "Lng": "-111.60503",
+        "SiteID": "1212",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "6393"
+    },
+    {
+        "Name": "White River Nv",
+        "Lat": "38.94557",
+        "Lng": "-115.37922",
+        "SiteID": "1213",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7367"
+    },
+    {
+        "Name": "Bevans Cabin",
+        "Lat": "40.46182",
+        "Lng": "-112.25233",
+        "SiteID": "1214",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "6520"
+    },
+    {
+        "Name": "Lasal Mountain-Lower",
+        "Lat": "38.48167",
+        "Lng": "-109.29164",
+        "SiteID": "1215",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8783"
+    },
+    {
+        "Name": "Huntington Horse",
+        "Lat": "39.61774",
+        "Lng": "-111.30576",
+        "SiteID": "1216",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9652"
+    },
+    {
+        "Name": "Rees Flat",
+        "Lat": "39.49667",
+        "Lng": "-111.72508",
+        "SiteID": "1217",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7206"
+    },
+    {
+        "Name": "GBRC HQ",
+        "Lat": "39.32019",
+        "Lng": "-111.48827",
+        "SiteID": "1221",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8801"
+    },
+    {
+        "Name": "GBRC Meadows",
+        "Lat": "39.30229",
+        "Lng": "-111.45383",
+        "SiteID": "1222",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9858"
+    },
+    {
+        "Name": "Hobble Creek",
+        "Lat": "40.18538",
+        "Lng": "-111.35971",
+        "SiteID": "1223",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7377"
+    },
+    {
+        "Name": "Mt Baldy",
+        "Lat": "39.13648",
+        "Lng": "-111.50527",
+        "SiteID": "1224",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9524"
+    },
+    {
+        "Name": "Redden Mine Lwr",
+        "Lat": "40.67505",
+        "Lng": "-111.21765",
+        "SiteID": "1225",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8532"
+    },
+    {
+        "Name": "Thistle Flat",
+        "Lat": "39.23803",
+        "Lng": "-111.51998",
+        "SiteID": "1226",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8787"
+    },
+    {
+        "Name": "Upper Joes Valley",
+        "Lat": "39.4155",
+        "Lng": "-111.2491",
+        "SiteID": "1227",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8596"
+    },
+    {
+        "Name": "Wrigley Creek",
+        "Lat": "39.13233",
+        "Lng": "-111.35685",
+        "SiteID": "1228",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9327"
+    },
+    {
+        "Name": "Satus Pass",
+        "Lat": "45.98797",
+        "Lng": "-120.67734",
+        "SiteID": "1231",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3960"
+    },
+    {
+        "Name": "Corral",
+        "Lat": "39.65795",
+        "Lng": "-110.37906",
+        "SiteID": "1236",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8207"
+    },
+    {
+        "Name": "Little Valley",
+        "Lat": "39.25259",
+        "Lng": "-119.8771",
+        "SiteID": "1242",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "6493"
+    },
+    {
+        "Name": "Dry Creek",
+        "Lat": "40.8638",
+        "Lng": "-115.22014",
+        "SiteID": "1243",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "6555"
+    },
+    {
+        "Name": "Pole Canyon",
+        "Lat": "40.86293",
+        "Lng": "-115.12067",
+        "SiteID": "1244",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7760"
+    },
+    {
+        "Name": "Takka Wiiya",
+        "Lat": "39.74104",
+        "Lng": "-113.98262",
+        "SiteID": "1247",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9122"
+    },
+    {
+        "Name": "Suu Ranch",
+        "Lat": "37.59711",
+        "Lng": "-112.92949",
+        "SiteID": "1248",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8050"
+    },
+    {
+        "Name": "Sunflower Flat",
+        "Lat": "38.048",
+        "Lng": "-111.33981",
+        "SiteID": "1249",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "10018"
+    },
+    {
+        "Name": "Sawtooth",
+        "Lat": "40.13697",
+        "Lng": "-105.58625",
+        "SiteID": "1251",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9620"
+    },
+    {
+        "Name": "Elkhead Divide",
+        "Lat": "40.79649",
+        "Lng": "-107.10122",
+        "SiteID": "1252",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "8780"
+    },
+    {
+        "Name": "Rio Santa Barbara",
+        "Lat": "36.07192",
+        "Lng": "-105.62947",
+        "SiteID": "1254",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "10664"
+    },
+    {
+        "Name": "Gold Mountain",
+        "Lat": "48.18934",
+        "Lng": "-118.4559",
+        "SiteID": "1256",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4390"
+    },
+    {
+        "Name": "Skate Creek",
+        "Lat": "46.64336",
+        "Lng": "-121.83044",
+        "SiteID": "1257",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3770"
+    },
+    {
+        "Name": "USState Line",
+        "Lat": "41.98609",
+        "Lng": "-120.71574",
+        "SiteID": "1258",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "5680"
+    },
+    {
+        "Name": "Muckamuck",
+        "Lat": "48.58526",
+        "Lng": "-119.86624",
+        "SiteID": "1259",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4470"
+    },
+    {
+        "Name": "Lonesome Beaver",
+        "Lat": "38.07",
+        "Lng": "-110.77241",
+        "SiteID": "1261",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9410"
+    },
+    {
+        "Name": "Fry Canyon",
+        "Lat": "41.57022",
+        "Lng": "-115.93645",
+        "SiteID": "1262",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "6798"
+    },
+    {
+        "Name": "Pinto Rock",
+        "Lat": "46.32318",
+        "Lng": "-121.94219",
+        "SiteID": "1263",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4440"
+    },
+    {
+        "Name": "Lower Kachemak Creek",
+        "Lat": "59.73507",
+        "Lng": "-150.69327",
+        "SiteID": "1265",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1915"
+    },
+    {
+        "Name": "Telaquana Lake",
+        "Lat": "60.98243",
+        "Lng": "-153.91772",
+        "SiteID": "1266",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1275"
+    },
+    {
+        "Name": "Alexander Lake",
+        "Lat": "61.74967",
+        "Lng": "-150.88967",
+        "SiteID": "1267",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "160"
+    },
+    {
+        "Name": "Fielding Lake",
+        "Lat": "63.20267",
+        "Lng": "-145.6305",
+        "SiteID": "1268",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "3000"
+    },
+    {
+        "Name": "Mt Pennell",
+        "Lat": "37.97793",
+        "Lng": "-110.7933",
+        "SiteID": "1269",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9209"
+    },
+    {
+        "Name": "Heen Latinee",
+        "Lat": "58.69652",
+        "Lng": "-134.86448",
+        "SiteID": "1270",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "2065"
+    },
+    {
+        "Name": "Hawley Lake",
+        "Lat": "33.97142",
+        "Lng": "-109.76528",
+        "SiteID": "1271",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "8300"
+    },
+    {
+        "Name": "ONeil Creek",
+        "Lat": "41.8642",
+        "Lng": "-115.08316",
+        "SiteID": "1272",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "6520"
+    },
+    {
+        "Name": "Jack Wade Jct",
+        "Lat": "64.1529",
+        "Lng": "-141.32693",
+        "SiteID": "1275",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "3585"
+    },
+    {
+        "Name": "Fredonyer Peak",
+        "Lat": "40.68799",
+        "Lng": "-120.60805",
+        "SiteID": "1277",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "7208"
+    },
+    {
+        "Name": "Bobs Hollow",
+        "Lat": "38.94569",
+        "Lng": "-112.15349",
+        "SiteID": "1278",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9319"
+    },
+    {
+        "Name": "Santaquin Meadows",
+        "Lat": "39.92076",
+        "Lng": "-111.71802",
+        "SiteID": "1280",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7835"
+    },
+    {
+        "Name": "Flower Mountain",
+        "Lat": "59.39617",
+        "Lng": "-136.28123",
+        "SiteID": "1285",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "2510"
+    },
+    {
+        "Name": "JL Meadow",
+        "Lat": "44.77665",
+        "Lng": "-113.12217",
+        "SiteID": "1287",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8800"
+    },
+    {
+        "Name": "KODIAK",
+        "Lat": "57.75",
+        "Lng": "-152.48333",
+        "SiteID": "201",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "19"
+    },
+    {
+        "Name": "Reynolds Creek",
+        "Lat": "43.28863",
+        "Lng": "-116.8431",
+        "SiteID": "2029",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5600"
+    },
+    {
+        "Name": "Porter Canyon",
+        "Lat": "39.46544",
+        "Lng": "-117.62069",
+        "SiteID": "2170",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7187"
+    },
+    {
+        "Name": "Adin Mtn",
+        "Lat": "41.23583",
+        "Lng": "-120.79192",
+        "SiteID": "301",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "6190"
+    },
+    {
+        "Name": "Aneroid Lake #2",
+        "Lat": "45.21328",
+        "Lng": "-117.19258",
+        "SiteID": "302",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "7400"
+    },
+    {
+        "Name": "Apishapa",
+        "Lat": "37.33062",
+        "Lng": "-105.06749",
+        "SiteID": "303",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10000"
+    },
+    {
+        "Name": "Arbuckle Mtn",
+        "Lat": "45.19085",
+        "Lng": "-119.25392",
+        "SiteID": "304",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5770"
+    },
+    {
+        "Name": "Atlanta Summit",
+        "Lat": "43.7569",
+        "Lng": "-115.23907",
+        "SiteID": "306",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7580"
+    },
+    {
+        "Name": "Badger Pass",
+        "Lat": "48.13088",
+        "Lng": "-113.02317",
+        "SiteID": "307",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6900"
+    },
+    {
+        "Name": "Baker Butte",
+        "Lat": "34.4566",
+        "Lng": "-111.40643",
+        "SiteID": "308",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "7300"
+    },
+    {
+        "Name": "Bald Mtn.",
+        "Lat": "44.8007",
+        "Lng": "-107.84442",
+        "SiteID": "309",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9380"
+    },
+    {
+        "Name": "Baldy",
+        "Lat": "33.97883",
+        "Lng": "-109.50344",
+        "SiteID": "310",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "9125"
+    },
+    {
+        "Name": "Banfield Mountain",
+        "Lat": "48.5712",
+        "Lng": "-115.44573",
+        "SiteID": "311",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "5600"
+    },
+    {
+        "Name": "Banner Summit",
+        "Lat": "44.30342",
+        "Lng": "-115.23447",
+        "SiteID": "312",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7040"
+    },
+    {
+        "Name": "Barker Lakes",
+        "Lat": "46.09713",
+        "Lng": "-113.13038",
+        "SiteID": "313",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8250"
+    },
+    {
+        "Name": "Base Camp",
+        "Lat": "43.94019",
+        "Lng": "-110.44544",
+        "SiteID": "314",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7060"
+    },
+    {
+        "Name": "Basin Creek",
+        "Lat": "45.79737",
+        "Lng": "-112.52047",
+        "SiteID": "315",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7180"
+    },
+    {
+        "Name": "Bateman",
+        "Lat": "36.51216",
+        "Lng": "-106.32129",
+        "SiteID": "316",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "9300"
+    },
+    {
+        "Name": "Battle Mountain",
+        "Lat": "41.05413",
+        "Lng": "-107.26609",
+        "SiteID": "317",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7440"
+    },
+    {
+        "Name": "Beagle Springs",
+        "Lat": "44.47147",
+        "Lng": "-112.98191",
+        "SiteID": "318",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8850"
+    },
+    {
+        "Name": "Bear Basin",
+        "Lat": "44.95222",
+        "Lng": "-116.14293",
+        "SiteID": "319",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5350"
+    },
+    {
+        "Name": "Bear Canyon",
+        "Lat": "43.74367",
+        "Lng": "-113.93797",
+        "SiteID": "320",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7900"
+    },
+    {
+        "Name": "Bear Creek",
+        "Lat": "41.83384",
+        "Lng": "-115.45278",
+        "SiteID": "321",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8040"
+    },
+    {
+        "Name": "Bear Lake",
+        "Lat": "40.31118",
+        "Lng": "-105.64483",
+        "SiteID": "322",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9500"
+    },
+    {
+        "Name": "Bear Mountain",
+        "Lat": "48.30577",
+        "Lng": "-116.07448",
+        "SiteID": "323",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5400"
+    },
+    {
+        "Name": "Bear Saddle",
+        "Lat": "44.60533",
+        "Lng": "-116.98097",
+        "SiteID": "324",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6180"
+    },
+    {
+        "Name": "Bear Trap Meadow",
+        "Lat": "43.88743",
+        "Lng": "-107.06135",
+        "SiteID": "325",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8200"
+    },
+    {
+        "Name": "Beartooth Lake",
+        "Lat": "44.94307",
+        "Lng": "-109.56743",
+        "SiteID": "326",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9360"
+    },
+    {
+        "Name": "Beartown",
+        "Lat": "37.71409",
+        "Lng": "-107.51212",
+        "SiteID": "327",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11600"
+    },
+    {
+        "Name": "Beaver Creek",
+        "Lat": "44.94966",
+        "Lng": "-111.35852",
+        "SiteID": "328",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7850"
+    },
+    {
+        "Name": "Beaver Dams",
+        "Lat": "39.13683",
+        "Lng": "-111.55813",
+        "SiteID": "329",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7990"
+    },
+    {
+        "Name": "Beaver Divide",
+        "Lat": "40.61233",
+        "Lng": "-111.09782",
+        "SiteID": "330",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8280"
+    },
+    {
+        "Name": "Beaver Reservoir",
+        "Lat": "45.14532",
+        "Lng": "-118.219",
+        "SiteID": "331",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5150"
+    },
+    {
+        "Name": "Ben Lomond Peak",
+        "Lat": "41.37603",
+        "Lng": "-111.94405",
+        "SiteID": "332",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7689"
+    },
+    {
+        "Name": "Ben Lomond Trail",
+        "Lat": "41.38291",
+        "Lng": "-111.92103",
+        "SiteID": "333",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "5972"
+    },
+    {
+        "Name": "Berry Creek",
+        "Lat": "39.31917",
+        "Lng": "-114.62278",
+        "SiteID": "334",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "9377"
+    },
+    {
+        "Name": "Berthoud Summit",
+        "Lat": "39.80392",
+        "Lng": "-105.77789",
+        "SiteID": "335",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11300"
+    },
+    {
+        "Name": "Big Bend",
+        "Lat": "41.76168",
+        "Lng": "-115.6931",
+        "SiteID": "336",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "6898"
+    },
+    {
+        "Name": "Big Creek Sum",
+        "Lat": "39.29148",
+        "Lng": "-117.11506",
+        "SiteID": "337",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8685"
+    },
+    {
+        "Name": "Big Creek Summit",
+        "Lat": "44.62621",
+        "Lng": "-115.79561",
+        "SiteID": "338",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6560"
+    },
+    {
+        "Name": "Big Flat",
+        "Lat": "38.30183",
+        "Lng": "-112.35672",
+        "SiteID": "339",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "10349"
+    },
+    {
+        "Name": "Big Meadow",
+        "Lat": "39.455",
+        "Lng": "-119.9422",
+        "SiteID": "340",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8235"
+    },
+    {
+        "Name": "Big Red Mountain",
+        "Lat": "42.05257",
+        "Lng": "-122.85487",
+        "SiteID": "341",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "6050"
+    },
+    {
+        "Name": "Big Sandy Opening",
+        "Lat": "42.6458",
+        "Lng": "-109.25965",
+        "SiteID": "342",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9080"
+    },
+    {
+        "Name": "Bigelow Camp",
+        "Lat": "42.07875",
+        "Lng": "-123.34393",
+        "SiteID": "343",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5130"
+    },
+    {
+        "Name": "Billie Creek Divide",
+        "Lat": "42.40717",
+        "Lng": "-122.26617",
+        "SiteID": "344",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5280"
+    },
+    {
+        "Name": "Bison Lake",
+        "Lat": "39.76487",
+        "Lng": "-107.35681",
+        "SiteID": "345",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10880"
+    },
+    {
+        "Name": "Bisson Creek",
+        "Lat": "47.68389",
+        "Lng": "-113.99901",
+        "SiteID": "346",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "4920"
+    },
+    {
+        "Name": "Black Bear",
+        "Lat": "44.50832",
+        "Lng": "-111.12803",
+        "SiteID": "347",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8170"
+    },
+    {
+        "Name": "Black Flat-U.M. Ck",
+        "Lat": "38.6799",
+        "Lng": "-111.59765",
+        "SiteID": "348",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9414"
+    },
+    {
+        "Name": "Black Pine",
+        "Lat": "46.414",
+        "Lng": "-113.43095",
+        "SiteID": "349",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7210"
+    },
+    {
+        "Name": "Blackwater",
+        "Lat": "44.37667",
+        "Lng": "-109.79333",
+        "SiteID": "350",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9780"
+    },
+    {
+        "Name": "Blazed Alder",
+        "Lat": "45.4287",
+        "Lng": "-121.85605",
+        "SiteID": "351",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "3650"
+    },
+    {
+        "Name": "Blewett Pass",
+        "Lat": "47.35037",
+        "Lng": "-120.6796",
+        "SiteID": "352",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4240"
+    },
+    {
+        "Name": "Blind Bull Sum",
+        "Lat": "42.964",
+        "Lng": "-110.60973",
+        "SiteID": "353",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8650"
+    },
+    {
+        "Name": "Blind Park",
+        "Lat": "44.10772",
+        "Lng": "-103.97688",
+        "SiteID": "354",
+        "USState": "SD",
+        "StationType": "SNTL",
+        "Elevation": "6890"
+    },
+    {
+        "Name": "Bloody Dick",
+        "Lat": "45.16507",
+        "Lng": "-113.50099",
+        "SiteID": "355",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7600"
+    },
+    {
+        "Name": "Blue Lakes",
+        "Lat": "38.608",
+        "Lng": "-119.92437",
+        "SiteID": "356",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "8067"
+    },
+    {
+        "Name": "Blue Mountain Spring",
+        "Lat": "44.24767",
+        "Lng": "-118.51722",
+        "SiteID": "357",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5870"
+    },
+    {
+        "Name": "Bone Springs Div",
+        "Lat": "44.67888",
+        "Lng": "-107.5811",
+        "SiteID": "358",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9350"
+    },
+    {
+        "Name": "Bostetter R.S.",
+        "Lat": "42.16442",
+        "Lng": "-114.19272",
+        "SiteID": "359",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7500"
+    },
+    {
+        "Name": "Boulder Mountain",
+        "Lat": "46.5596",
+        "Lng": "-111.28973",
+        "SiteID": "360",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7950"
+    },
+    {
+        "Name": "Bourne",
+        "Lat": "44.83052",
+        "Lng": "-118.18787",
+        "SiteID": "361",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5850"
+    },
+    {
+        "Name": "Bowman Springs",
+        "Lat": "45.36428",
+        "Lng": "-118.46715",
+        "SiteID": "362",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4530"
+    },
+    {
+        "Name": "Box Canyon",
+        "Lat": "45.2719",
+        "Lng": "-110.24903",
+        "SiteID": "363",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6670"
+    },
+    {
+        "Name": "Box Creek",
+        "Lat": "38.50809",
+        "Lng": "-112.01856",
+        "SiteID": "364",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9853"
+    },
+    {
+        "Name": "Brackett Creek",
+        "Lat": "45.89107",
+        "Lng": "-110.93851",
+        "SiteID": "365",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7320"
+    },
+    {
+        "Name": "Brighton",
+        "Lat": "40.59936",
+        "Lng": "-111.58167",
+        "SiteID": "366",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8766"
+    },
+    {
+        "Name": "Brooklyn Lake",
+        "Lat": "41.35885",
+        "Lng": "-106.23209",
+        "SiteID": "367",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "10240"
+    },
+    {
+        "Name": "Brown Duck",
+        "Lat": "40.58102",
+        "Lng": "-110.58587",
+        "SiteID": "368",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "10574"
+    },
+    {
+        "Name": "Brumley",
+        "Lat": "39.08766",
+        "Lng": "-106.5417",
+        "SiteID": "369",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10600"
+    },
+    {
+        "Name": "Brundage Reservoir",
+        "Lat": "45.04315",
+        "Lng": "-116.13253",
+        "SiteID": "370",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6250"
+    },
+    {
+        "Name": "Buck Flat",
+        "Lat": "39.134",
+        "Lng": "-111.43722",
+        "SiteID": "371",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9409"
+    },
+    {
+        "Name": "Buckskin Lower",
+        "Lat": "41.75067",
+        "Lng": "-117.53182",
+        "SiteID": "373",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "6930"
+    },
+    {
+        "Name": "Bug Lake",
+        "Lat": "41.68541",
+        "Lng": "-111.41987",
+        "SiteID": "374",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7987"
+    },
+    {
+        "Name": "Bumping Ridge",
+        "Lat": "46.81003",
+        "Lng": "-121.33058",
+        "SiteID": "375",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4610"
+    },
+    {
+        "Name": "Bunchgrass Mdw",
+        "Lat": "48.68688",
+        "Lng": "-117.17633",
+        "SiteID": "376",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5000"
+    },
+    {
+        "Name": "Burgess Junction",
+        "Lat": "44.78765",
+        "Lng": "-107.52917",
+        "SiteID": "377",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7880"
+    },
+    {
+        "Name": "Burro Mountain",
+        "Lat": "39.87505",
+        "Lng": "-107.59853",
+        "SiteID": "378",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9400"
+    },
+    {
+        "Name": "Burroughs Creek",
+        "Lat": "43.69733",
+        "Lng": "-109.67021",
+        "SiteID": "379",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8750"
+    },
+    {
+        "Name": "Butte",
+        "Lat": "38.89433",
+        "Lng": "-106.953",
+        "SiteID": "380",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10160"
+    },
+    {
+        "Name": "Calvert Creek",
+        "Lat": "45.8838",
+        "Lng": "-113.32553",
+        "SiteID": "381",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6430"
+    },
+    {
+        "Name": "Camas Creek Divide",
+        "Lat": "43.26548",
+        "Lng": "-115.3453",
+        "SiteID": "382",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5710"
+    },
+    {
+        "Name": "Camp Jackson",
+        "Lat": "37.81333",
+        "Lng": "-109.48723",
+        "SiteID": "383",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8858"
+    },
+    {
+        "Name": "Canyon",
+        "Lat": "44.71961",
+        "Lng": "-110.51084",
+        "SiteID": "384",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7870"
+    },
+    {
+        "Name": "Carrot Basin",
+        "Lat": "44.96192",
+        "Lng": "-111.29403",
+        "SiteID": "385",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "9000"
+    },
+    {
+        "Name": "Cascade",
+        "Lat": "37.65083",
+        "Lng": "-107.80602",
+        "SiteID": "386",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "8880"
+    },
+    {
+        "Name": "Cascade #2",
+        "Lat": "37.658",
+        "Lng": "-107.80268",
+        "SiteID": "387",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "8920"
+    },
+    {
+        "Name": "Cascade Summit",
+        "Lat": "43.59042",
+        "Lng": "-122.0601",
+        "SiteID": "388",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5100"
+    },
+    {
+        "Name": "Casper Mtn.",
+        "Lat": "42.73389",
+        "Lng": "-106.31861",
+        "SiteID": "389",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7900"
+    },
+    {
+        "Name": "Castle Valley",
+        "Lat": "37.66098",
+        "Lng": "-112.74093",
+        "SiteID": "390",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9607"
+    },
+    {
+        "Name": "Cedar Pass",
+        "Lat": "41.58233",
+        "Lng": "-120.3025",
+        "SiteID": "391",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "7030"
+    },
+    {
+        "Name": "Chalk Creek #1",
+        "Lat": "40.85464",
+        "Lng": "-111.04765",
+        "SiteID": "392",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9171"
+    },
+    {
+        "Name": "Chalk Creek #2",
+        "Lat": "40.88529",
+        "Lng": "-111.06954",
+        "SiteID": "393",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8208"
+    },
+    {
+        "Name": "Chamita",
+        "Lat": "36.95636",
+        "Lng": "-106.65682",
+        "SiteID": "394",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "8400"
+    },
+    {
+        "Name": "Chemult Alternate",
+        "Lat": "43.22625",
+        "Lng": "-121.80662",
+        "SiteID": "395",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4850"
+    },
+    {
+        "Name": "Chepeta",
+        "Lat": "40.77458",
+        "Lng": "-110.0105",
+        "SiteID": "396",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "10499"
+    },
+    {
+        "Name": "Clackamas Lake",
+        "Lat": "45.09658",
+        "Lng": "-121.75443",
+        "SiteID": "398",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "3400"
+    },
+    {
+        "Name": "Clear Creek #1",
+        "Lat": "39.86671",
+        "Lng": "-111.28363",
+        "SiteID": "399",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8975"
+    },
+    {
+        "Name": "Clear Creek #2",
+        "Lat": "39.89275",
+        "Lng": "-111.25154",
+        "SiteID": "400",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7837"
+    },
+    {
+        "Name": "Clear Lake",
+        "Lat": "45.18832",
+        "Lng": "-121.6916",
+        "SiteID": "401",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "3810"
+    },
+    {
+        "Name": "Cloud Peak Reservoir",
+        "Lat": "44.40343",
+        "Lng": "-107.06057",
+        "SiteID": "402",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9860"
+    },
+    {
+        "Name": "Clover Meadow",
+        "Lat": "45.01788",
+        "Lng": "-111.8456",
+        "SiteID": "403",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8600"
+    },
+    {
+        "Name": "Cold Springs",
+        "Lat": "43.27676",
+        "Lng": "-109.44585",
+        "SiteID": "405",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9630"
+    },
+    {
+        "Name": "Cold Springs Camp",
+        "Lat": "42.53305",
+        "Lng": "-122.17683",
+        "SiteID": "406",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5940"
+    },
+    {
+        "Name": "Cole Creek",
+        "Lat": "45.19405",
+        "Lng": "-109.34548",
+        "SiteID": "407",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7850"
+    },
+    {
+        "Name": "Columbine",
+        "Lat": "40.3948",
+        "Lng": "-106.60408",
+        "SiteID": "408",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9160"
+    },
+    {
+        "Name": "Columbine Pass",
+        "Lat": "38.41795",
+        "Lng": "-108.38249",
+        "SiteID": "409",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9400"
+    },
+    {
+        "Name": "Combination",
+        "Lat": "46.46523",
+        "Lng": "-113.39358",
+        "SiteID": "410",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "5600"
+    },
+    {
+        "Name": "Cool Creek",
+        "Lat": "46.76361",
+        "Lng": "-115.29528",
+        "SiteID": "411",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6280"
+    },
+    {
+        "Name": "Copeland Lake",
+        "Lat": "40.20778",
+        "Lng": "-105.56861",
+        "SiteID": "412",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "8600"
+    },
+    {
+        "Name": "Copper Bottom",
+        "Lat": "47.05678",
+        "Lng": "-112.595",
+        "SiteID": "413",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "5200"
+    },
+    {
+        "Name": "Copper Camp",
+        "Lat": "47.08158",
+        "Lng": "-112.72955",
+        "SiteID": "414",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6950"
+    },
+    {
+        "Name": "Copper Mountain",
+        "Lat": "39.48954",
+        "Lng": "-106.17095",
+        "SiteID": "415",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10550"
+    },
+    {
+        "Name": "Coronado Trail",
+        "Lat": "33.80392",
+        "Lng": "-109.15282",
+        "SiteID": "416",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "8400"
+    },
+    {
+        "Name": "Corral Canyon",
+        "Lat": "40.27551",
+        "Lng": "-115.54017",
+        "SiteID": "417",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8445"
+    },
+    {
+        "Name": "Corral Pass",
+        "Lat": "47.01872",
+        "Lng": "-121.46464",
+        "SiteID": "418",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5800"
+    },
+    {
+        "Name": "Cottonwood Creek",
+        "Lat": "42.6459",
+        "Lng": "-110.81482",
+        "SiteID": "419",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7670"
+    },
+    {
+        "Name": "Cougar Mountain",
+        "Lat": "47.27666",
+        "Lng": "-121.67138",
+        "SiteID": "420",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3200"
+    },
+    {
+        "Name": "County Line",
+        "Lat": "45.19107",
+        "Lng": "-118.55015",
+        "SiteID": "422",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4830"
+    },
+    {
+        "Name": "Cozy Cove",
+        "Lat": "44.28846",
+        "Lng": "-115.65508",
+        "SiteID": "423",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5400"
+    },
+    {
+        "Name": "Crab Creek",
+        "Lat": "44.437",
+        "Lng": "-111.99384",
+        "SiteID": "424",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6900"
+    },
+    {
+        "Name": "Crater Meadows",
+        "Lat": "46.56394",
+        "Lng": "-115.28903",
+        "SiteID": "425",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5960"
+    },
+    {
+        "Name": "Crosho",
+        "Lat": "40.16745",
+        "Lng": "-107.0575",
+        "SiteID": "426",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9100"
+    },
+    {
+        "Name": "Crystal Lake",
+        "Lat": "46.78942",
+        "Lng": "-109.51205",
+        "SiteID": "427",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6050"
+    },
+    {
+        "Name": "Css Lab",
+        "Lat": "39.32565",
+        "Lng": "-120.36807",
+        "SiteID": "428",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "6894"
+    },
+    {
+        "Name": "Galena AK",
+        "Lat": "64.69662",
+        "Lng": "-156.71497",
+        "SiteID": "429",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "410"
+    },
+    {
+        "Name": "Culebra #2",
+        "Lat": "37.20945",
+        "Lng": "-105.19959",
+        "SiteID": "430",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10500"
+    },
+    {
+        "Name": "Cumbres Trestle",
+        "Lat": "37.01878",
+        "Lng": "-106.45179",
+        "SiteID": "431",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10040"
+    },
+    {
+        "Name": "Currant Creek",
+        "Lat": "40.35747",
+        "Lng": "-111.08993",
+        "SiteID": "432",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7915"
+    },
+    {
+        "Name": "Daly Creek",
+        "Lat": "46.18367",
+        "Lng": "-113.8533",
+        "SiteID": "433",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "5780"
+    },
+    {
+        "Name": "Daly Lake",
+        "Lat": "44.52147",
+        "Lng": "-122.08718",
+        "SiteID": "434",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "3690"
+    },
+    {
+        "Name": "Daniels-Strawberry",
+        "Lat": "40.2953",
+        "Lng": "-111.25677",
+        "SiteID": "435",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8008"
+    },
+    {
+        "Name": "Darkhorse Lake",
+        "Lat": "45.17367",
+        "Lng": "-113.58448",
+        "SiteID": "436",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8945"
+    },
+    {
+        "Name": "Deadman Creek",
+        "Lat": "46.79279",
+        "Lng": "-110.67545",
+        "SiteID": "437",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6450"
+    },
+    {
+        "Name": "Deadman Hill",
+        "Lat": "40.80571",
+        "Lng": "-105.76993",
+        "SiteID": "438",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10220"
+    },
+    {
+        "Name": "Deadwood Summit",
+        "Lat": "44.54514",
+        "Lng": "-115.5638",
+        "SiteID": "439",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6860"
+    },
+    {
+        "Name": "Derr.",
+        "Lat": "44.4465",
+        "Lng": "-119.93012",
+        "SiteID": "440",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5850"
+    },
+    {
+        "Name": "Diamond Lake",
+        "Lat": "43.18787",
+        "Lng": "-122.14003",
+        "SiteID": "442",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5280"
+    },
+    {
+        "Name": "Diamond Peak",
+        "Lat": "39.56361",
+        "Lng": "-115.84421",
+        "SiteID": "443",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8017"
+    },
+    {
+        "Name": "Dills Camp",
+        "Lat": "39.04554",
+        "Lng": "-111.46875",
+        "SiteID": "444",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9228"
+    },
+    {
+        "Name": "Disaster Peak",
+        "Lat": "41.96737",
+        "Lng": "-118.18934",
+        "SiteID": "445",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "6260"
+    },
+    {
+        "Name": "Dismal Swamp",
+        "Lat": "41.99127",
+        "Lng": "-120.18033",
+        "SiteID": "446",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "7360"
+    },
+    {
+        "Name": "Divide",
+        "Lat": "44.79317",
+        "Lng": "-112.05645",
+        "SiteID": "448",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7800"
+    },
+    {
+        "Name": "Divide Peak",
+        "Lat": "41.30398",
+        "Lng": "-107.15241",
+        "SiteID": "449",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8880"
+    },
+    {
+        "Name": "Dollarhide Summit",
+        "Lat": "43.6025",
+        "Lng": "-114.67417",
+        "SiteID": "450",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "8420"
+    },
+    {
+        "Name": "Dome Lake",
+        "Lat": "44.57462",
+        "Lng": "-107.29537",
+        "SiteID": "451",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8880"
+    },
+    {
+        "Name": "Donkey Reservoir",
+        "Lat": "38.2084",
+        "Lng": "-111.47412",
+        "SiteID": "452",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9799"
+    },
+    {
+        "Name": "Dorsey Basin",
+        "Lat": "40.89343",
+        "Lng": "-115.21104",
+        "SiteID": "453",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7903"
+    },
+    {
+        "Name": "Draw Creek",
+        "Lat": "41.661",
+        "Lng": "-115.3234",
+        "SiteID": "454",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7332"
+    },
+    {
+        "Name": "Dry Bread Pond",
+        "Lat": "41.41289",
+        "Lng": "-111.5377",
+        "SiteID": "455",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8302"
+    },
+    {
+        "Name": "Dry Lake",
+        "Lat": "40.53397",
+        "Lng": "-106.7813",
+        "SiteID": "457",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "8400"
+    },
+    {
+        "Name": "Dupuyer Creek",
+        "Lat": "48.06341",
+        "Lng": "-112.7573",
+        "SiteID": "458",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "5750"
+    },
+    {
+        "Name": "East Rim Divide",
+        "Lat": "43.13097",
+        "Lng": "-110.2023",
+        "SiteID": "460",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7930"
+    },
+    {
+        "Name": "East Willow Creek",
+        "Lat": "39.31213",
+        "Lng": "-109.53179",
+        "SiteID": "461",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8302"
+    },
+    {
+        "Name": "Ebbetts Pass",
+        "Lat": "38.5497",
+        "Lng": "-119.80468",
+        "SiteID": "462",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "8661"
+    },
+    {
+        "Name": "Echo Peak",
+        "Lat": "38.849",
+        "Lng": "-120.0795",
+        "SiteID": "463",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "7653"
+    },
+    {
+        "Name": "Eilertson Meadows",
+        "Lat": "44.86887",
+        "Lng": "-118.11387",
+        "SiteID": "464",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5510"
+    },
+    {
+        "Name": "El Diente Peak",
+        "Lat": "37.78617",
+        "Lng": "-108.02155",
+        "SiteID": "465",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10000"
+    },
+    {
+        "Name": "Elk Butte",
+        "Lat": "46.83998",
+        "Lng": "-116.12233",
+        "SiteID": "466",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5690"
+    },
+    {
+        "Name": "Elk River",
+        "Lat": "40.84781",
+        "Lng": "-106.96871",
+        "SiteID": "467",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "8700"
+    },
+    {
+        "Name": "Elkhart Park G.S.",
+        "Lat": "43.00657",
+        "Lng": "-109.75893",
+        "SiteID": "468",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9400"
+    },
+    {
+        "Name": "Emery Creek",
+        "Lat": "48.43412",
+        "Lng": "-113.93725",
+        "SiteID": "469",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "4350"
+    },
+    {
+        "Name": "Emigrant Springs",
+        "Lat": "45.55808",
+        "Lng": "-118.45383",
+        "SiteID": "470",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "3800"
+    },
+    {
+        "Name": "Emigrant Summit",
+        "Lat": "42.36055",
+        "Lng": "-111.56085",
+        "SiteID": "471",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7390"
+    },
+    {
+        "Name": "Evening Star",
+        "Lat": "44.65258",
+        "Lng": "-109.78422",
+        "SiteID": "472",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9200"
+    },
+    {
+        "Name": "Fallen Leaf",
+        "Lat": "38.93403",
+        "Lng": "-120.0545",
+        "SiteID": "473",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "6242"
+    },
+    {
+        "Name": "Farmington",
+        "Lat": "40.97462",
+        "Lng": "-111.80975",
+        "SiteID": "474",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7902"
+    },
+    {
+        "Name": "Farnsworth Lake",
+        "Lat": "38.77246",
+        "Lng": "-111.67662",
+        "SiteID": "475",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9623"
+    },
+    {
+        "Name": "Fawn Creek",
+        "Lat": "41.82098",
+        "Lng": "-116.10153",
+        "SiteID": "476",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7031"
+    },
+    {
+        "Name": "Fish Creek",
+        "Lat": "42.70992",
+        "Lng": "-118.6321",
+        "SiteID": "477",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "7660"
+    },
+    {
+        "Name": "Fish Lake",
+        "Lat": "47.53565",
+        "Lng": "-121.08553",
+        "SiteID": "478",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3430"
+    },
+    {
+        "Name": "Fish Lk.",
+        "Lat": "42.3801",
+        "Lng": "-122.34943",
+        "SiteID": "479",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4660"
+    },
+    {
+        "Name": "Fisher Creek",
+        "Lat": "45.06235",
+        "Lng": "-109.94488",
+        "SiteID": "480",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "9100"
+    },
+    {
+        "Name": "Five Points Lake",
+        "Lat": "40.71785",
+        "Lng": "-110.46721",
+        "SiteID": "481",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "10943"
+    },
+    {
+        "Name": "Flattop Mtn.",
+        "Lat": "48.80225",
+        "Lng": "-113.85713",
+        "SiteID": "482",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6300"
+    },
+    {
+        "Name": "Fourmile Lake",
+        "Lat": "42.43933",
+        "Lng": "-122.2288",
+        "SiteID": "483",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5970"
+    },
+    {
+        "Name": "Franklin Basin",
+        "Lat": "42.0505",
+        "Lng": "-111.6012",
+        "SiteID": "484",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "8140"
+    },
+    {
+        "Name": "Fremont Pass",
+        "Lat": "39.37991",
+        "Lng": "-106.19681",
+        "SiteID": "485",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11400"
+    },
+    {
+        "Name": "Frisco Divide",
+        "Lat": "33.73646",
+        "Lng": "-108.94502",
+        "SiteID": "486",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "8000"
+    },
+    {
+        "Name": "Frohner Meadow",
+        "Lat": "46.43545",
+        "Lng": "-112.19277",
+        "SiteID": "487",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6480"
+    },
+    {
+        "Name": "Fry",
+        "Lat": "35.07297",
+        "Lng": "-111.84374",
+        "SiteID": "488",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "7200"
+    },
+    {
+        "Name": "Galena",
+        "Lat": "43.87722",
+        "Lng": "-114.6725",
+        "SiteID": "489",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7470"
+    },
+    {
+        "Name": "Galena Summit",
+        "Lat": "43.87497",
+        "Lng": "-114.71363",
+        "SiteID": "490",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "8780"
+    },
+    {
+        "Name": "Gallegos Peak",
+        "Lat": "36.19446",
+        "Lng": "-105.55795",
+        "SiteID": "491",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "9800"
+    },
+    {
+        "Name": "Garfield R.S.",
+        "Lat": "43.6104",
+        "Lng": "-113.9308",
+        "SiteID": "492",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6560"
+    },
+    {
+        "Name": "Giveout",
+        "Lat": "42.4132",
+        "Lng": "-111.1663",
+        "SiteID": "493",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6930"
+    },
+    {
+        "Name": "Gold Center",
+        "Lat": "44.7638",
+        "Lng": "-118.3117",
+        "SiteID": "494",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5410"
+    },
+    {
+        "Name": "Gooseberry RS",
+        "Lat": "38.80034",
+        "Lng": "-111.68333",
+        "SiteID": "495",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7944"
+    },
+    {
+        "Name": "Graham Guard Sta.",
+        "Lat": "43.9538",
+        "Lng": "-115.27387",
+        "SiteID": "496",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5690"
+    },
+    {
+        "Name": "Granite Creek",
+        "Lat": "43.34298",
+        "Lng": "-110.43495",
+        "SiteID": "497",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "6770"
+    },
+    {
+        "Name": "Granite Peak",
+        "Lat": "41.67032",
+        "Lng": "-117.56668",
+        "SiteID": "498",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8503"
+    },
+    {
+        "Name": "Grassy Lake",
+        "Lat": "44.12612",
+        "Lng": "-110.83435",
+        "SiteID": "499",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7265"
+    },
+    {
+        "Name": "Grave Creek",
+        "Lat": "48.91453",
+        "Lng": "-114.76663",
+        "SiteID": "500",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "4300"
+    },
+    {
+        "Name": "Grave Springs",
+        "Lat": "43.46643",
+        "Lng": "-107.23977",
+        "SiteID": "501",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8550"
+    },
+    {
+        "Name": "Green Lake",
+        "Lat": "46.54741",
+        "Lng": "-121.17093",
+        "SiteID": "502",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5920"
+    },
+    {
+        "Name": "Green Mountain",
+        "Lat": "40.3848",
+        "Lng": "-115.52757",
+        "SiteID": "503",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8185"
+    },
+    {
+        "Name": "Greenpoint",
+        "Lat": "45.62237",
+        "Lng": "-121.70415",
+        "SiteID": "504",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "3310"
+    },
+    {
+        "Name": "Grizzly Peak",
+        "Lat": "39.64631",
+        "Lng": "-105.86973",
+        "SiteID": "505",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11100"
+    },
+    {
+        "Name": "Gros Ventre Summit",
+        "Lat": "43.38939",
+        "Lng": "-110.12943",
+        "SiteID": "506",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8750"
+    },
+    {
+        "Name": "Grouse Camp",
+        "Lat": "47.28107",
+        "Lng": "-120.48771",
+        "SiteID": "507",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5390"
+    },
+    {
+        "Name": "Hagans Meadow",
+        "Lat": "38.8519",
+        "Lng": "-119.9374",
+        "SiteID": "508",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "7742"
+    },
+    {
+        "Name": "Hams Fork",
+        "Lat": "42.146",
+        "Lng": "-110.67833",
+        "SiteID": "509",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7840"
+    },
+    {
+        "Name": "Hand Creek",
+        "Lat": "48.30754",
+        "Lng": "-114.84075",
+        "SiteID": "510",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "5035"
+    },
+    {
+        "Name": "Hannagan Meadows",
+        "Lat": "33.65387",
+        "Lng": "-109.30952",
+        "SiteID": "511",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "9020"
+    },
+    {
+        "Name": "Hansen Sawmill",
+        "Lat": "44.25602",
+        "Lng": "-106.97983",
+        "SiteID": "512",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8360"
+    },
+    {
+        "Name": "Lakefork Basin",
+        "Lat": "40.73785",
+        "Lng": "-110.62121",
+        "SiteID": "513",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "10885"
+    },
+    {
+        "Name": "Harris Flat",
+        "Lat": "37.48997",
+        "Lng": "-112.57602",
+        "SiteID": "514",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7792"
+    },
+    {
+        "Name": "Harts Pass",
+        "Lat": "48.72047",
+        "Lng": "-120.6586",
+        "SiteID": "515",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "6490"
+    },
+    {
+        "Name": "Hawkins Lake",
+        "Lat": "48.9723",
+        "Lng": "-115.95337",
+        "SiteID": "516",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6450"
+    },
+    {
+        "Name": "Hayden Fork",
+        "Lat": "40.79669",
+        "Lng": "-110.88472",
+        "SiteID": "517",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9130"
+    },
+    {
+        "Name": "Heavenly Valley",
+        "Lat": "38.92431",
+        "Lng": "-119.91641",
+        "SiteID": "518",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "8534"
+    },
+    {
+        "Name": "Heber",
+        "Lat": "34.31202",
+        "Lng": "-110.75431",
+        "SiteID": "519",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "7640"
+    },
+    {
+        "Name": "Hemlock Butte",
+        "Lat": "46.48111",
+        "Lng": "-115.63361",
+        "SiteID": "520",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5810"
+    },
+    {
+        "Name": "Hewinta",
+        "Lat": "40.95009",
+        "Lng": "-110.48419",
+        "SiteID": "521",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9500"
+    },
+    {
+        "Name": "Hickerson Park",
+        "Lat": "40.90663",
+        "Lng": "-109.96287",
+        "SiteID": "522",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9122"
+    },
+    {
+        "Name": "High Ridge",
+        "Lat": "45.69682",
+        "Lng": "-118.10657",
+        "SiteID": "523",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4920"
+    },
+    {
+        "Name": "Hilts Creek",
+        "Lat": "44.01897",
+        "Lng": "-113.4723",
+        "SiteID": "524",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "8000"
+    },
+    {
+        "Name": "Hobbs Park",
+        "Lat": "42.86984",
+        "Lng": "-109.09455",
+        "SiteID": "525",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "10100"
+    },
+    {
+        "Name": "Hogg Pass",
+        "Lat": "44.42042",
+        "Lng": "-121.85655",
+        "SiteID": "526",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4790"
+    },
+    {
+        "Name": "Hole-in-Mountain",
+        "Lat": "40.94168",
+        "Lng": "-115.0954",
+        "SiteID": "527",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8163"
+    },
+    {
+        "Name": "Hole-in-Rock",
+        "Lat": "40.92167",
+        "Lng": "-110.18623",
+        "SiteID": "528",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9168"
+    },
+    {
+        "Name": "Holland Meadows",
+        "Lat": "43.66917",
+        "Lng": "-122.56877",
+        "SiteID": "529",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4930"
+    },
+    {
+        "Name": "Hoodoo Basin",
+        "Lat": "46.9751",
+        "Lng": "-115.0349",
+        "SiteID": "530",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6050"
+    },
+    {
+        "Name": "Hoosier Pass",
+        "Lat": "39.36127",
+        "Lng": "-106.05978",
+        "SiteID": "531",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11400"
+    },
+    {
+        "Name": "Hopewell",
+        "Lat": "36.71631",
+        "Lng": "-106.26348",
+        "SiteID": "532",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "10000"
+    },
+    {
+        "Name": "Horse Ridge",
+        "Lat": "41.31372",
+        "Lng": "-111.44624",
+        "SiteID": "533",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8199"
+    },
+    {
+        "Name": "Howell Canyon",
+        "Lat": "42.32029",
+        "Lng": "-113.61587",
+        "SiteID": "534",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7980"
+    },
+    {
+        "Name": "Humboldt Gulch",
+        "Lat": "47.53178",
+        "Lng": "-115.77643",
+        "SiteID": "535",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "4250"
+    },
+    {
+        "Name": "Hyndman",
+        "Lat": "43.71077",
+        "Lng": "-114.15894",
+        "SiteID": "537",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7620"
+    },
+    {
+        "Name": "Idarado",
+        "Lat": "37.9339",
+        "Lng": "-107.67552",
+        "SiteID": "538",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9800"
+    },
+    {
+        "Name": "Independence Camp",
+        "Lat": "39.45269",
+        "Lng": "-120.29367",
+        "SiteID": "539",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "6980"
+    },
+    {
+        "Name": "Independence Creek",
+        "Lat": "39.49001",
+        "Lng": "-120.28226",
+        "SiteID": "540",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "6436"
+    },
+    {
+        "Name": "Independence Lake",
+        "Lat": "39.42752",
+        "Lng": "-120.31342",
+        "SiteID": "541",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "8338"
+    },
+    {
+        "Name": "Independence Pass",
+        "Lat": "39.07539",
+        "Lng": "-106.61169",
+        "SiteID": "542",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10600"
+    },
+    {
+        "Name": "Indian Canyon",
+        "Lat": "39.89166",
+        "Lng": "-110.74604",
+        "SiteID": "543",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9171"
+    },
+    {
+        "Name": "Indian Creek",
+        "Lat": "42.30023",
+        "Lng": "-110.67753",
+        "SiteID": "544",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9425"
+    },
+    {
+        "Name": "Irish Taylor",
+        "Lat": "43.80368",
+        "Lng": "-121.94793",
+        "SiteID": "545",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5540"
+    },
+    {
+        "Name": "Island Park",
+        "Lat": "44.4203",
+        "Lng": "-111.38512",
+        "SiteID": "546",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6290"
+    },
+    {
+        "Name": "Ivanhoe",
+        "Lat": "39.29202",
+        "Lng": "-106.54923",
+        "SiteID": "547",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10400"
+    },
+    {
+        "Name": "Jack Creek Upper",
+        "Lat": "41.54675",
+        "Lng": "-116.00517",
+        "SiteID": "548",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7377"
+    },
+    {
+        "Name": "Jacks Peak",
+        "Lat": "41.5136",
+        "Lng": "-116.0117",
+        "SiteID": "549",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8424"
+    },
+    {
+        "Name": "Jackson Peak",
+        "Lat": "44.05092",
+        "Lng": "-115.44322",
+        "SiteID": "550",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7070"
+    },
+    {
+        "Name": "Joe Wright",
+        "Lat": "40.53215",
+        "Lng": "-105.887",
+        "SiteID": "551",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10120"
+    },
+    {
+        "Name": "Jump Off Joe",
+        "Lat": "44.38605",
+        "Lng": "-122.16683",
+        "SiteID": "552",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "3520"
+    },
+    {
+        "Name": "June Lake",
+        "Lat": "46.14778",
+        "Lng": "-122.15413",
+        "SiteID": "553",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3440"
+    },
+    {
+        "Name": "Kelley R.S.",
+        "Lat": "42.26554",
+        "Lng": "-110.80177",
+        "SiteID": "554",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8180"
+    },
+    {
+        "Name": "Kendall R.S.",
+        "Lat": "43.2493",
+        "Lng": "-110.01662",
+        "SiteID": "555",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7740"
+    },
+    {
+        "Name": "Kiln",
+        "Lat": "39.31724",
+        "Lng": "-106.61453",
+        "SiteID": "556",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9600"
+    },
+    {
+        "Name": "Kimberly Mine",
+        "Lat": "38.48383",
+        "Lng": "-112.39273",
+        "SiteID": "557",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9101"
+    },
+    {
+        "Name": "King Mountain",
+        "Lat": "42.72395",
+        "Lng": "-123.20037",
+        "SiteID": "558",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4340"
+    },
+    {
+        "Name": "Kings Cabin",
+        "Lat": "40.71632",
+        "Lng": "-109.54401",
+        "SiteID": "559",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8728"
+    },
+    {
+        "Name": "Kirwin",
+        "Lat": "43.86067",
+        "Lng": "-109.32163",
+        "SiteID": "560",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9550"
+    },
+    {
+        "Name": "Kolob",
+        "Lat": "37.52664",
+        "Lng": "-113.05386",
+        "SiteID": "561",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9263"
+    },
+    {
+        "Name": "Kraft Creek",
+        "Lat": "47.42749",
+        "Lng": "-113.77515",
+        "SiteID": "562",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "4750"
+    },
+    {
+        "Name": "Lake Creek R.S.",
+        "Lat": "44.21007",
+        "Lng": "-118.63752",
+        "SiteID": "563",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5240"
+    },
+    {
+        "Name": "Lake Eldora",
+        "Lat": "39.93678",
+        "Lng": "-105.58956",
+        "SiteID": "564",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9700"
+    },
+    {
+        "Name": "Lake Irene",
+        "Lat": "40.41432",
+        "Lng": "-105.8198",
+        "SiteID": "565",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10700"
+    },
+    {
+        "Name": "Lakefork #1",
+        "Lat": "40.59709",
+        "Lng": "-110.43316",
+        "SiteID": "566",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "10128"
+    },
+    {
+        "Name": "Lakeview Ridge",
+        "Lat": "44.58907",
+        "Lng": "-111.82498",
+        "SiteID": "568",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7400"
+    },
+    {
+        "Name": "Lamance Creek",
+        "Lat": "41.51542",
+        "Lng": "-117.63197",
+        "SiteID": "569",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "6395"
+    },
+    {
+        "Name": "Lamoille #3",
+        "Lat": "40.6448",
+        "Lng": "-115.3812",
+        "SiteID": "570",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8051"
+    },
+    {
+        "Name": "Laprele Creek",
+        "Lat": "42.43583",
+        "Lng": "-105.86083",
+        "SiteID": "571",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8375"
+    },
+    {
+        "Name": "Lasal Mountain",
+        "Lat": "38.48226",
+        "Lng": "-109.27198",
+        "SiteID": "572",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9578"
+    },
+    {
+        "Name": "Laurel Draw",
+        "Lat": "41.77637",
+        "Lng": "-116.02957",
+        "SiteID": "573",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "6682"
+    },
+    {
+        "Name": "Leavitt Lake",
+        "Lat": "38.27594",
+        "Lng": "-119.61281",
+        "SiteID": "574",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "9604"
+    },
+    {
+        "Name": "Leavitt Meadows",
+        "Lat": "38.30367",
+        "Lng": "-119.55111",
+        "SiteID": "575",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "7198"
+    },
+    {
+        "Name": "Lemhi Ridge",
+        "Lat": "44.9938",
+        "Lng": "-113.44399",
+        "SiteID": "576",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8100"
+    },
+    {
+        "Name": "Lewis Lake Divide",
+        "Lat": "44.20862",
+        "Lng": "-110.66628",
+        "SiteID": "577",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7850"
+    },
+    {
+        "Name": "Lick Creek",
+        "Lat": "45.5041",
+        "Lng": "-110.96625",
+        "SiteID": "578",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6860"
+    },
+    {
+        "Name": "Lily Lake",
+        "Lat": "40.86493",
+        "Lng": "-110.79813",
+        "SiteID": "579",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9133"
+    },
+    {
+        "Name": "Lily Pond",
+        "Lat": "37.37929",
+        "Lng": "-106.54835",
+        "SiteID": "580",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11000"
+    },
+    {
+        "Name": "Little Bear",
+        "Lat": "41.40562",
+        "Lng": "-111.82607",
+        "SiteID": "582",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "6548"
+    },
+    {
+        "Name": "Little Grassy",
+        "Lat": "37.48631",
+        "Lng": "-113.84582",
+        "SiteID": "583",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "6065"
+    },
+    {
+        "Name": "Little Meadows",
+        "Lat": "44.61297",
+        "Lng": "-122.22565",
+        "SiteID": "584",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4020"
+    },
+    {
+        "Name": "Little Warm",
+        "Lat": "43.50278",
+        "Lng": "-109.752",
+        "SiteID": "585",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9370"
+    },
+    {
+        "Name": "Lizard Head Pass",
+        "Lat": "37.79926",
+        "Lng": "-107.92426",
+        "SiteID": "586",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10200"
+    },
+    {
+        "Name": "Lobdell Lake",
+        "Lat": "38.43745",
+        "Lng": "-119.36572",
+        "SiteID": "587",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "9249"
+    },
+    {
+        "Name": "Lolo Pass",
+        "Lat": "46.63448",
+        "Lng": "-114.58072",
+        "SiteID": "588",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5240"
+    },
+    {
+        "Name": "Lone Cone",
+        "Lat": "37.89183",
+        "Lng": "-108.19544",
+        "SiteID": "589",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9600"
+    },
+    {
+        "Name": "Lone Mountain",
+        "Lat": "45.27412",
+        "Lng": "-111.42692",
+        "SiteID": "590",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8880"
+    },
+    {
+        "Name": "Lone Pine",
+        "Lat": "46.27143",
+        "Lng": "-121.96288",
+        "SiteID": "591",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3930"
+    },
+    {
+        "Name": "Long Flat",
+        "Lat": "37.51255",
+        "Lng": "-113.39661",
+        "SiteID": "592",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7982"
+    },
+    {
+        "Name": "Long Valley Jct",
+        "Lat": "37.48756",
+        "Lng": "-112.51458",
+        "SiteID": "593",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7465"
+    },
+    {
+        "Name": "Lookout",
+        "Lat": "47.45749",
+        "Lng": "-115.70457",
+        "SiteID": "594",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5190"
+    },
+    {
+        "Name": "Lookout Mountain",
+        "Lat": "33.36027",
+        "Lng": "-107.83122",
+        "SiteID": "595",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "8500"
+    },
+    {
+        "Name": "Lookout Peak",
+        "Lat": "40.83731",
+        "Lng": "-111.70965",
+        "SiteID": "596",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8161"
+    },
+    {
+        "Name": "Loomis Park",
+        "Lat": "43.17387",
+        "Lng": "-110.14007",
+        "SiteID": "597",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8240"
+    },
+    {
+        "Name": "Lost Horse",
+        "Lat": "46.3575",
+        "Lng": "-121.08095",
+        "SiteID": "599",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5120"
+    },
+    {
+        "Name": "Lost Lake",
+        "Lat": "47.0809",
+        "Lng": "-115.9604",
+        "SiteID": "600",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6110"
+    },
+    {
+        "Name": "Lost-Wood Divide",
+        "Lat": "43.82432",
+        "Lng": "-114.26402",
+        "SiteID": "601",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7900"
+    },
+    {
+        "Name": "Loveland Basin",
+        "Lat": "39.67433",
+        "Lng": "-105.90133",
+        "SiteID": "602",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11400"
+    },
+    {
+        "Name": "Lower Twin",
+        "Lat": "45.50871",
+        "Lng": "-111.92288",
+        "SiteID": "603",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7900"
+    },
+    {
+        "Name": "Lubrecht Flume",
+        "Lat": "46.88293",
+        "Lng": "-113.32228",
+        "SiteID": "604",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "4680"
+    },
+    {
+        "Name": "Lucky Strike",
+        "Lat": "45.27478",
+        "Lng": "-118.8479",
+        "SiteID": "605",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4970"
+    },
+    {
+        "Name": "Lyman Lake",
+        "Lat": "48.19798",
+        "Lng": "-120.91678",
+        "SiteID": "606",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5980"
+    },
+    {
+        "Name": "Lynx Pass",
+        "Lat": "40.07806",
+        "Lng": "-106.67028",
+        "SiteID": "607",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "8880"
+    },
+    {
+        "Name": "Madison Butte",
+        "Lat": "45.10513",
+        "Lng": "-119.49585",
+        "SiteID": "608",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5150"
+    },
+    {
+        "Name": "Madison Plateau",
+        "Lat": "44.58623",
+        "Lng": "-111.11627",
+        "SiteID": "609",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7750"
+    },
+    {
+        "Name": "Magic Mountain",
+        "Lat": "42.18072",
+        "Lng": "-114.28662",
+        "SiteID": "610",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6880"
+    },
+    {
+        "Name": "Mammoth-Cottonwood",
+        "Lat": "39.68338",
+        "Lng": "-111.31818",
+        "SiteID": "612",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8709"
+    },
+    {
+        "Name": "Many Glacier",
+        "Lat": "48.79698",
+        "Lng": "-113.6705",
+        "SiteID": "613",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "4900"
+    },
+    {
+        "Name": "Marion Forks",
+        "Lat": "44.59397",
+        "Lng": "-121.97365",
+        "SiteID": "614",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "2590"
+    },
+    {
+        "Name": "Marlette Lake",
+        "Lat": "39.16395",
+        "Lng": "-119.89672",
+        "SiteID": "615",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7884"
+    },
+    {
+        "Name": "Marquette",
+        "Lat": "44.3016",
+        "Lng": "-109.24019",
+        "SiteID": "616",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8760"
+    },
+    {
+        "Name": "Maverick Fork",
+        "Lat": "33.92121",
+        "Lng": "-109.45881",
+        "SiteID": "617",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "9200"
+    },
+    {
+        "Name": "Mc Clure Pass",
+        "Lat": "39.12897",
+        "Lng": "-107.28806",
+        "SiteID": "618",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9500"
+    },
+    {
+        "Name": "Mckenzie",
+        "Lat": "44.2103",
+        "Lng": "-121.87292",
+        "SiteID": "619",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4770"
+    },
+    {
+        "Name": "Meadow Lake",
+        "Lat": "44.43655",
+        "Lng": "-113.31815",
+        "SiteID": "620",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "9150"
+    },
+    {
+        "Name": "Merchant Valley",
+        "Lat": "38.30285",
+        "Lng": "-112.43637",
+        "SiteID": "621",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8705"
+    },
+    {
+        "Name": "Mesa Lakes",
+        "Lat": "39.05831",
+        "Lng": "-108.05835",
+        "SiteID": "622",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10000"
+    },
+    {
+        "Name": "Mica Creek",
+        "Lat": "47.15045",
+        "Lng": "-116.26643",
+        "SiteID": "623",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "4510"
+    },
+    {
+        "Name": "Middle Creek",
+        "Lat": "37.61978",
+        "Lng": "-107.03482",
+        "SiteID": "624",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11250"
+    },
+    {
+        "Name": "Middle Powder",
+        "Lat": "43.62728",
+        "Lng": "-107.18138",
+        "SiteID": "625",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7760"
+    },
+    {
+        "Name": "Midway Valley",
+        "Lat": "37.56933",
+        "Lng": "-112.83849",
+        "SiteID": "626",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9827"
+    },
+    {
+        "Name": "Mill Creek Summit",
+        "Lat": "44.47212",
+        "Lng": "-114.48992",
+        "SiteID": "627",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "8800"
+    },
+    {
+        "Name": "Mill-D North",
+        "Lat": "40.65883",
+        "Lng": "-111.63683",
+        "SiteID": "628",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8963"
+    },
+    {
+        "Name": "Mineral Creek",
+        "Lat": "37.84747",
+        "Lng": "-107.72657",
+        "SiteID": "629",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10040"
+    },
+    {
+        "Name": "Mining Fork",
+        "Lat": "40.49384",
+        "Lng": "-112.61141",
+        "SiteID": "631",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8295"
+    },
+    {
+        "Name": "Molas Lake",
+        "Lat": "37.74932",
+        "Lng": "-107.68866",
+        "SiteID": "632",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10500"
+    },
+    {
+        "Name": "Monitor Pass",
+        "Lat": "38.6683",
+        "Lng": "-119.6087",
+        "SiteID": "633",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "8306"
+    },
+    {
+        "Name": "Monte Cristo",
+        "Lat": "41.46547",
+        "Lng": "-111.49688",
+        "SiteID": "634",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8932"
+    },
+    {
+        "Name": "Monument Peak",
+        "Lat": "45.21759",
+        "Lng": "-110.237",
+        "SiteID": "635",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8850"
+    },
+    {
+        "Name": "Moonshine",
+        "Lat": "44.4147",
+        "Lng": "-113.39812",
+        "SiteID": "636",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7440"
+    },
+    {
+        "Name": "Mores Creek Summit",
+        "Lat": "43.932",
+        "Lng": "-115.66588",
+        "SiteID": "637",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6100"
+    },
+    {
+        "Name": "Moose Creek",
+        "Lat": "45.67008",
+        "Lng": "-113.95315",
+        "SiteID": "638",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6200"
+    },
+    {
+        "Name": "Morgan Creek",
+        "Lat": "44.84237",
+        "Lng": "-114.26871",
+        "SiteID": "639",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7600"
+    },
+    {
+        "Name": "Mormon Mountain",
+        "Lat": "34.94109",
+        "Lng": "-111.51849",
+        "SiteID": "640",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "7500"
+    },
+    {
+        "Name": "Frostbite Bottom",
+        "Lat": "61.74722",
+        "Lng": "-149.2688",
+        "SiteID": "641",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "2700"
+    },
+    {
+        "Name": "Morse Lake",
+        "Lat": "46.90585",
+        "Lng": "-121.4827",
+        "SiteID": "642",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5410"
+    },
+    {
+        "Name": "Mosby Mtn.",
+        "Lat": "40.60798",
+        "Lng": "-109.8881",
+        "SiteID": "643",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9553"
+    },
+    {
+        "Name": "Moses Mtn",
+        "Lat": "48.36163",
+        "Lng": "-119.08159",
+        "SiteID": "644",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5010"
+    },
+    {
+        "Name": "Mosquito Ridge",
+        "Lat": "48.05726",
+        "Lng": "-116.23055",
+        "SiteID": "645",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5260"
+    },
+    {
+        "Name": "Moss Peak",
+        "Lat": "47.68493",
+        "Lng": "-113.9623",
+        "SiteID": "646",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6780"
+    },
+    {
+        "Name": "Moss Springs",
+        "Lat": "45.27173",
+        "Lng": "-117.68747",
+        "SiteID": "647",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5760"
+    },
+    {
+        "Name": "Mount Crag",
+        "Lat": "47.7637",
+        "Lng": "-123.026",
+        "SiteID": "648",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3960"
+    },
+    {
+        "Name": "Mount Lockhart",
+        "Lat": "47.91727",
+        "Lng": "-112.8238",
+        "SiteID": "649",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6400"
+    },
+    {
+        "Name": "Mountain Meadows",
+        "Lat": "45.69694",
+        "Lng": "-115.22972",
+        "SiteID": "650",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6320"
+    },
+    {
+        "Name": "Mt Hood Test Site",
+        "Lat": "45.32097",
+        "Lng": "-121.7158",
+        "SiteID": "651",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5370"
+    },
+    {
+        "Name": "Mt Rose Ski Area",
+        "Lat": "39.31573",
+        "Lng": "-119.89473",
+        "SiteID": "652",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8801"
+    },
+    {
+        "Name": "Mt. Howard",
+        "Lat": "45.26522",
+        "Lng": "-117.17373",
+        "SiteID": "653",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "7910"
+    },
+    {
+        "Name": "Mud Flat",
+        "Lat": "42.6004",
+        "Lng": "-116.55925",
+        "SiteID": "654",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5730"
+    },
+    {
+        "Name": "Mud Ridge",
+        "Lat": "45.25362",
+        "Lng": "-121.73673",
+        "SiteID": "655",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4070"
+    },
+    {
+        "Name": "Mule Creek",
+        "Lat": "45.40957",
+        "Lng": "-112.95927",
+        "SiteID": "656",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8300"
+    },
+    {
+        "Name": "N Fk Elk Creek",
+        "Lat": "46.8716",
+        "Lng": "-113.27725",
+        "SiteID": "657",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6250"
+    },
+    {
+        "Name": "Nast Lake",
+        "Lat": "39.29722",
+        "Lng": "-106.60694",
+        "SiteID": "658",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "8700"
+    },
+    {
+        "Name": "New Crescent Lake",
+        "Lat": "43.51185",
+        "Lng": "-121.97982",
+        "SiteID": "660",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4910"
+    },
+    {
+        "Name": "New Fork Lake",
+        "Lat": "43.11265",
+        "Lng": "-109.94947",
+        "SiteID": "661",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8340"
+    },
+    {
+        "Name": "Nez Perce Camp",
+        "Lat": "45.73107",
+        "Lng": "-114.48075",
+        "SiteID": "662",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "5650"
+    },
+    {
+        "Name": "Niwot",
+        "Lat": "40.03523",
+        "Lng": "-105.54426",
+        "SiteID": "663",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9910"
+    },
+    {
+        "Name": "Noisy Basin",
+        "Lat": "48.15678",
+        "Lng": "-113.94637",
+        "SiteID": "664",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6040"
+    },
+    {
+        "Name": "North Costilla",
+        "Lat": "36.99378",
+        "Lng": "-105.25963",
+        "SiteID": "665",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "10600"
+    },
+    {
+        "Name": "North Fork",
+        "Lat": "45.5505",
+        "Lng": "-122.00283",
+        "SiteID": "666",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "3060"
+    },
+    {
+        "Name": "North Fork Jocko",
+        "Lat": "47.2726",
+        "Lng": "-113.75617",
+        "SiteID": "667",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6330"
+    },
+    {
+        "Name": "North French Creek",
+        "Lat": "41.3308",
+        "Lng": "-106.37555",
+        "SiteID": "668",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "10130"
+    },
+    {
+        "Name": "North Lost Trail",
+        "Lat": "39.07813",
+        "Lng": "-107.14389",
+        "SiteID": "669",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9200"
+    },
+    {
+        "Name": "Northeast Entrance",
+        "Lat": "45.00565",
+        "Lng": "-110.01406",
+        "SiteID": "670",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7350"
+    },
+    {
+        "Name": "Ochoco Meadows",
+        "Lat": "44.42917",
+        "Lng": "-120.3311",
+        "SiteID": "671",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5430"
+    },
+    {
+        "Name": "Olallie Meadows",
+        "Lat": "47.37406",
+        "Lng": "-121.44213",
+        "SiteID": "672",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4030"
+    },
+    {
+        "Name": "Old Battle",
+        "Lat": "41.15397",
+        "Lng": "-106.96937",
+        "SiteID": "673",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "10000"
+    },
+    {
+        "Name": "Overland Res.",
+        "Lat": "39.09056",
+        "Lng": "-107.63472",
+        "SiteID": "675",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9840"
+    },
+    {
+        "Name": "Owl Creek",
+        "Lat": "43.65868",
+        "Lng": "-109.00988",
+        "SiteID": "676",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8975"
+    },
+    {
+        "Name": "Oxford Spring",
+        "Lat": "42.26015",
+        "Lng": "-112.12515",
+        "SiteID": "677",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6740"
+    },
+    {
+        "Name": "Paradise",
+        "Lat": "46.78265",
+        "Lng": "-121.74765",
+        "SiteID": "679",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5130"
+    },
+    {
+        "Name": "Park Cone",
+        "Lat": "38.81996",
+        "Lng": "-106.58974",
+        "SiteID": "680",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9600"
+    },
+    {
+        "Name": "Park Creek Ridge",
+        "Lat": "48.44488",
+        "Lng": "-120.91551",
+        "SiteID": "681",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4600"
+    },
+    {
+        "Name": "Park Reservoir",
+        "Lat": "39.04644",
+        "Lng": "-107.87414",
+        "SiteID": "682",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9960"
+    },
+    {
+        "Name": "Parker Peak",
+        "Lat": "44.73396",
+        "Lng": "-109.91484",
+        "SiteID": "683",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9400"
+    },
+    {
+        "Name": "Parleys Summit",
+        "Lat": "40.76184",
+        "Lng": "-111.62917",
+        "SiteID": "684",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7585"
+    },
+    {
+        "Name": "Payson R.S.",
+        "Lat": "39.92976",
+        "Lng": "-111.63109",
+        "SiteID": "686",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8044"
+    },
+    {
+        "Name": "Peavine Ridge",
+        "Lat": "45.04148",
+        "Lng": "-121.93252",
+        "SiteID": "687",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "3420"
+    },
+    {
+        "Name": "Phantom Valley",
+        "Lat": "40.39937",
+        "Lng": "-105.84757",
+        "SiteID": "688",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9030"
+    },
+    {
+        "Name": "Phillips Bench",
+        "Lat": "43.51687",
+        "Lng": "-110.91258",
+        "SiteID": "689",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8200"
+    },
+    {
+        "Name": "Pickfoot Creek",
+        "Lat": "46.57978",
+        "Lng": "-111.26832",
+        "SiteID": "690",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6650"
+    },
+    {
+        "Name": "Pickle Keg",
+        "Lat": "39.01219",
+        "Lng": "-111.58259",
+        "SiteID": "691",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9020"
+    },
+    {
+        "Name": "Pigtail Peak",
+        "Lat": "46.62153",
+        "Lng": "-121.38643",
+        "SiteID": "692",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5800"
+    },
+    {
+        "Name": "Pike Creek",
+        "Lat": "48.30305",
+        "Lng": "-113.32868",
+        "SiteID": "693",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "5930"
+    },
+    {
+        "Name": "Pine Creek",
+        "Lat": "38.88185",
+        "Lng": "-112.24915",
+        "SiteID": "694",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8734"
+    },
+    {
+        "Name": "Pine Creek Pass",
+        "Lat": "43.56998",
+        "Lng": "-111.21157",
+        "SiteID": "695",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6720"
+    },
+    {
+        "Name": "Placer Basin",
+        "Lat": "45.41905",
+        "Lng": "-110.08844",
+        "SiteID": "696",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8830"
+    },
+    {
+        "Name": "Poison Flat",
+        "Lat": "38.50576",
+        "Lng": "-119.62624",
+        "SiteID": "697",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "7736"
+    },
+    {
+        "Name": "Pole Creek R.S.",
+        "Lat": "41.87255",
+        "Lng": "-115.24713",
+        "SiteID": "698",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "8360"
+    },
+    {
+        "Name": "Pope Ridge",
+        "Lat": "47.9909",
+        "Lng": "-120.56622",
+        "SiteID": "699",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3590"
+    },
+    {
+        "Name": "Porcupine",
+        "Lat": "46.11192",
+        "Lng": "-110.4696",
+        "SiteID": "700",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6500"
+    },
+    {
+        "Name": "Porphyry Creek",
+        "Lat": "38.48884",
+        "Lng": "-106.33965",
+        "SiteID": "701",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10760"
+    },
+    {
+        "Name": "Potato Hill",
+        "Lat": "46.34963",
+        "Lng": "-121.51435",
+        "SiteID": "702",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4510"
+    },
+    {
+        "Name": "Powder River Pass",
+        "Lat": "44.16188",
+        "Lng": "-107.12622",
+        "SiteID": "703",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9480"
+    },
+    {
+        "Name": "Prairie",
+        "Lat": "43.50513",
+        "Lng": "-115.573",
+        "SiteID": "704",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "4800"
+    },
+    {
+        "Name": "Promontory",
+        "Lat": "34.36824",
+        "Lng": "-111.01084",
+        "SiteID": "705",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "7930"
+    },
+    {
+        "Name": "Quartz Mountain",
+        "Lat": "42.31923",
+        "Lng": "-120.82533",
+        "SiteID": "706",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5720"
+    },
+    {
+        "Name": "Quartz Peak",
+        "Lat": "47.87927",
+        "Lng": "-117.08938",
+        "SiteID": "707",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4700"
+    },
+    {
+        "Name": "Quemazon",
+        "Lat": "35.92244",
+        "Lng": "-106.39203",
+        "SiteID": "708",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "9500"
+    },
+    {
+        "Name": "Rabbit Ears",
+        "Lat": "40.36783",
+        "Lng": "-106.74038",
+        "SiteID": "709",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9400"
+    },
+    {
+        "Name": "Railroad Overpass",
+        "Lat": "43.65887",
+        "Lng": "-122.21272",
+        "SiteID": "710",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "2680"
+    },
+    {
+        "Name": "Rainy Pass",
+        "Lat": "48.51865",
+        "Lng": "-120.7358",
+        "SiteID": "711",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4890"
+    },
+    {
+        "Name": "Red Hill",
+        "Lat": "45.4643",
+        "Lng": "-121.70428",
+        "SiteID": "712",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4410"
+    },
+    {
+        "Name": "Red Mountain Pass",
+        "Lat": "37.8918",
+        "Lng": "-107.71342",
+        "SiteID": "713",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11200"
+    },
+    {
+        "Name": "Red Pine Ridge",
+        "Lat": "39.45197",
+        "Lng": "-111.27221",
+        "SiteID": "714",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8988"
+    },
+    {
+        "Name": "Red River Pass #2",
+        "Lat": "36.69925",
+        "Lng": "-105.34125",
+        "SiteID": "715",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "9850"
+    },
+    {
+        "Name": "Reno Hill",
+        "Lat": "42.57111",
+        "Lng": "-106.08889",
+        "SiteID": "716",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8400"
+    },
+    {
+        "Name": "Ripple Creek",
+        "Lat": "40.10812",
+        "Lng": "-107.29411",
+        "SiteID": "717",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10340"
+    },
+    {
+        "Name": "Roach",
+        "Lat": "40.87502",
+        "Lng": "-106.04603",
+        "SiteID": "718",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9700"
+    },
+    {
+        "Name": "Roaring River",
+        "Lat": "43.90098",
+        "Lng": "-122.03063",
+        "SiteID": "719",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4950"
+    },
+    {
+        "Name": "Rock Creek",
+        "Lat": "40.54875",
+        "Lng": "-110.69292",
+        "SiteID": "720",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7886"
+    },
+    {
+        "Name": "Rock Springs",
+        "Lat": "44.00883",
+        "Lng": "-118.83842",
+        "SiteID": "721",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5290"
+    },
+    {
+        "Name": "Rocker Peak",
+        "Lat": "46.35613",
+        "Lng": "-112.26176",
+        "SiteID": "722",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8000"
+    },
+    {
+        "Name": "Rocky Basin-Settleme",
+        "Lat": "40.44293",
+        "Lng": "-112.22377",
+        "SiteID": "723",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8704"
+    },
+    {
+        "Name": "Rubicon #2",
+        "Lat": "38.99927",
+        "Lng": "-120.13139",
+        "SiteID": "724",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "7619"
+    },
+    {
+        "Name": "S Fork Shields",
+        "Lat": "46.0896",
+        "Lng": "-110.43363",
+        "SiteID": "725",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8100"
+    },
+    {
+        "Name": "Saddle Mountain",
+        "Lat": "45.54477",
+        "Lng": "-123.37315",
+        "SiteID": "726",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "3110"
+    },
+    {
+        "Name": "Saddle Mtn.",
+        "Lat": "45.69259",
+        "Lng": "-113.96828",
+        "SiteID": "727",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7940"
+    },
+    {
+        "Name": "Salmon Meadows",
+        "Lat": "48.65518",
+        "Lng": "-119.8383",
+        "SiteID": "728",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4460"
+    },
+    {
+        "Name": "Salt Creek Falls",
+        "Lat": "43.61193",
+        "Lng": "-122.11758",
+        "SiteID": "729",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4220"
+    },
+    {
+        "Name": "Salt River Summit",
+        "Lat": "42.5075",
+        "Lng": "-110.9099",
+        "SiteID": "730",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7640"
+    },
+    {
+        "Name": "Sand Lake",
+        "Lat": "41.46257",
+        "Lng": "-106.28107",
+        "SiteID": "731",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "10050"
+    },
+    {
+        "Name": "Sandstone RS",
+        "Lat": "41.11172",
+        "Lng": "-107.1706",
+        "SiteID": "732",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8150"
+    },
+    {
+        "Name": "Santiam Jct.",
+        "Lat": "44.43503",
+        "Lng": "-121.94502",
+        "SiteID": "733",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "3740"
+    },
+    {
+        "Name": "Sasse Ridge",
+        "Lat": "47.38485",
+        "Lng": "-121.06323",
+        "SiteID": "734",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4340"
+    },
+    {
+        "Name": "Savage Pass",
+        "Lat": "46.46633",
+        "Lng": "-114.63333",
+        "SiteID": "735",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6190"
+    },
+    {
+        "Name": "Schneider Meadows",
+        "Lat": "45.00107",
+        "Lng": "-117.16522",
+        "SiteID": "736",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5400"
+    },
+    {
+        "Name": "Schofield Pass",
+        "Lat": "39.01522",
+        "Lng": "-107.04877",
+        "SiteID": "737",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10700"
+    },
+    {
+        "Name": "Schweitzer Basin",
+        "Lat": "48.37428",
+        "Lng": "-116.63917",
+        "SiteID": "738",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6090"
+    },
+    {
+        "Name": "Scotch Creek",
+        "Lat": "37.64556",
+        "Lng": "-108.00786",
+        "SiteID": "739",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9100"
+    },
+    {
+        "Name": "Secesh Summit",
+        "Lat": "45.18848",
+        "Lng": "-115.97152",
+        "SiteID": "740",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6540"
+    },
+    {
+        "Name": "Sedgwick Peak",
+        "Lat": "42.52497",
+        "Lng": "-111.95635",
+        "SiteID": "741",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7850"
+    },
+    {
+        "Name": "Seeley Creek",
+        "Lat": "39.31042",
+        "Lng": "-111.43297",
+        "SiteID": "742",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9904"
+    },
+    {
+        "Name": "Seine Creek",
+        "Lat": "45.52688",
+        "Lng": "-123.29857",
+        "SiteID": "743",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "2060"
+    },
+    {
+        "Name": "Senorita Divide #2",
+        "Lat": "36.00198",
+        "Lng": "-106.83348",
+        "SiteID": "744",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "8600"
+    },
+    {
+        "Name": "Sevenmile Marsh",
+        "Lat": "42.69825",
+        "Lng": "-122.14165",
+        "SiteID": "745",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5700"
+    },
+    {
+        "Name": "Seventysix Creek",
+        "Lat": "41.73732",
+        "Lng": "-115.47215",
+        "SiteID": "746",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "7350"
+    },
+    {
+        "Name": "Shanghi Summit",
+        "Lat": "46.56603",
+        "Lng": "-115.74216",
+        "SiteID": "747",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "4600"
+    },
+    {
+        "Name": "Sheep Canyon",
+        "Lat": "46.19325",
+        "Lng": "-122.25393",
+        "SiteID": "748",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3990"
+    },
+    {
+        "Name": "Sheep Mtn.",
+        "Lat": "43.2103",
+        "Lng": "-111.68792",
+        "SiteID": "749",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6650"
+    },
+    {
+        "Name": "Sheldon",
+        "Lat": "41.90435",
+        "Lng": "-119.44464",
+        "SiteID": "750",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "5865"
+    },
+    {
+        "Name": "Shell Creek",
+        "Lat": "44.50012",
+        "Lng": "-107.42947",
+        "SiteID": "751",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9580"
+    },
+    {
+        "Name": "Sherwin",
+        "Lat": "46.95028",
+        "Lng": "-116.33972",
+        "SiteID": "752",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "3200"
+    },
+    {
+        "Name": "Short Creek",
+        "Lat": "44.97572",
+        "Lng": "-111.95215",
+        "SiteID": "753",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7000"
+    },
+    {
+        "Name": "Shower Falls",
+        "Lat": "45.40125",
+        "Lng": "-110.95758",
+        "SiteID": "754",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8100"
+    },
+    {
+        "Name": "Signal Peak",
+        "Lat": "32.92401",
+        "Lng": "-108.14538",
+        "SiteID": "755",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "8360"
+    },
+    {
+        "Name": "Silver Creek",
+        "Lat": "42.95615",
+        "Lng": "-121.18123",
+        "SiteID": "756",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5740"
+    },
+    {
+        "Name": "Silver Creek Divide",
+        "Lat": "33.37106",
+        "Lng": "-108.70618",
+        "SiteID": "757",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "9000"
+    },
+    {
+        "Name": "Silvies",
+        "Lat": "42.75333",
+        "Lng": "-118.68785",
+        "SiteID": "759",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "6990"
+    },
+    {
+        "Name": "Skalkaho Summit",
+        "Lat": "46.24212",
+        "Lng": "-113.7725",
+        "SiteID": "760",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7250"
+    },
+    {
+        "Name": "Slug Creek Divide",
+        "Lat": "42.56248",
+        "Lng": "-111.29797",
+        "SiteID": "761",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7225"
+    },
+    {
+        "Name": "Slumgullion",
+        "Lat": "37.9908",
+        "Lng": "-107.20327",
+        "SiteID": "762",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11560"
+    },
+    {
+        "Name": "Smith  Morehouse",
+        "Lat": "40.78931",
+        "Lng": "-111.09192",
+        "SiteID": "763",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7631"
+    },
+    {
+        "Name": "Snake River Station",
+        "Lat": "44.13361",
+        "Lng": "-110.66917",
+        "SiteID": "764",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "6920"
+    },
+    {
+        "Name": "Snider Basin",
+        "Lat": "42.4949",
+        "Lng": "-110.53203",
+        "SiteID": "765",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8060"
+    },
+    {
+        "Name": "Snowbird",
+        "Lat": "40.56914",
+        "Lng": "-111.65852",
+        "SiteID": "766",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9177"
+    },
+    {
+        "Name": "Snow Mountain",
+        "Lat": "43.94885",
+        "Lng": "-119.54013",
+        "SiteID": "767",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "6230"
+    },
+    {
+        "Name": "Soldier R.S.",
+        "Lat": "43.48407",
+        "Lng": "-114.82692",
+        "SiteID": "769",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5740"
+    },
+    {
+        "Name": "Somsen Ranch",
+        "Lat": "42.95275",
+        "Lng": "-111.35933",
+        "SiteID": "770",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6800"
+    },
+    {
+        "Name": "Sonora Pass",
+        "Lat": "38.31021",
+        "Lng": "-119.6003",
+        "SiteID": "771",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "8770"
+    },
+    {
+        "Name": "South Brush Creek",
+        "Lat": "41.32943",
+        "Lng": "-106.50248",
+        "SiteID": "772",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8440"
+    },
+    {
+        "Name": "South Colony",
+        "Lat": "37.96811",
+        "Lng": "-105.53787",
+        "SiteID": "773",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10800"
+    },
+    {
+        "Name": "South Mtn.",
+        "Lat": "42.76478",
+        "Lng": "-116.90037",
+        "SiteID": "774",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6500"
+    },
+    {
+        "Name": "South Pass",
+        "Lat": "42.57317",
+        "Lng": "-108.84325",
+        "SiteID": "775",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9040"
+    },
+    {
+        "Name": "Spencer Meadow",
+        "Lat": "46.1795",
+        "Lng": "-121.92661",
+        "SiteID": "776",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3400"
+    },
+    {
+        "Name": "Spirit Lake",
+        "Lat": "46.26113",
+        "Lng": "-122.1772",
+        "SiteID": "777",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3520"
+    },
+    {
+        "Name": "Spratt Creek",
+        "Lat": "38.66627",
+        "Lng": "-119.81741",
+        "SiteID": "778",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "6063"
+    },
+    {
+        "Name": "Spring Creek Divide",
+        "Lat": "42.52516",
+        "Lng": "-110.66148",
+        "SiteID": "779",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9000"
+    },
+    {
+        "Name": "Spud Mountain",
+        "Lat": "37.69866",
+        "Lng": "-107.77715",
+        "SiteID": "780",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10660"
+    },
+    {
+        "Name": "Spur Park",
+        "Lat": "46.77962",
+        "Lng": "-110.62165",
+        "SiteID": "781",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8100"
+    },
+    {
+        "Name": "Squaw Flat",
+        "Lat": "44.77091",
+        "Lng": "-116.24805",
+        "SiteID": "782",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6240"
+    },
+    {
+        "Name": "Sleeping Woman",
+        "Lat": "47.17902",
+        "Lng": "-114.33368",
+        "SiteID": "783",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6150"
+    },
+    {
+        "Name": "Squaw Valley G.C.",
+        "Lat": "39.18986",
+        "Lng": "-120.26576",
+        "SiteID": "784",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "8013"
+    },
+    {
+        "Name": "McGrath",
+        "Lat": "62.94652",
+        "Lng": "-155.6102",
+        "SiteID": "785",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "340"
+    },
+    {
+        "Name": "St. Lawrence Alt",
+        "Lat": "43.03313",
+        "Lng": "-109.17025",
+        "SiteID": "786",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8620"
+    },
+    {
+        "Name": "Stahl Peak",
+        "Lat": "48.90902",
+        "Lng": "-114.86298",
+        "SiteID": "787",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6030"
+    },
+    {
+        "Name": "Stampede Pass",
+        "Lat": "47.27427",
+        "Lng": "-121.34162",
+        "SiteID": "788",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3850"
+    },
+    {
+        "Name": "Starr Ridge",
+        "Lat": "44.26423",
+        "Lng": "-119.02162",
+        "SiteID": "789",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5250"
+    },
+    {
+        "Name": "Steel Creek Park",
+        "Lat": "40.90862",
+        "Lng": "-110.50462",
+        "SiteID": "790",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "10158"
+    },
+    {
+        "Name": "Stevens Pass",
+        "Lat": "47.74607",
+        "Lng": "-121.09288",
+        "SiteID": "791",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3950"
+    },
+    {
+        "Name": "Stickney Mill",
+        "Lat": "43.86117",
+        "Lng": "-114.20902",
+        "SiteID": "792",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7430"
+    },
+    {
+        "Name": "Stillwater Creek",
+        "Lat": "40.22543",
+        "Lng": "-105.91977",
+        "SiteID": "793",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "8720"
+    },
+    {
+        "Name": "Strawberry",
+        "Lat": "42.12587",
+        "Lng": "-120.8361",
+        "SiteID": "794",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5770"
+    },
+    {
+        "Name": "Strawberry Divide",
+        "Lat": "40.16483",
+        "Lng": "-111.20665",
+        "SiteID": "795",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8123"
+    },
+    {
+        "Name": "Stump Lakes",
+        "Lat": "37.47621",
+        "Lng": "-107.63295",
+        "SiteID": "797",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11200"
+    },
+    {
+        "Name": "Sucker Creek",
+        "Lat": "44.7225",
+        "Lng": "-107.40033",
+        "SiteID": "798",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8880"
+    },
+    {
+        "Name": "Summer Rim",
+        "Lat": "42.6957",
+        "Lng": "-120.80158",
+        "SiteID": "800",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "7080"
+    },
+    {
+        "Name": "Summit Lake",
+        "Lat": "43.44907",
+        "Lng": "-122.13808",
+        "SiteID": "801",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5610"
+    },
+    {
+        "Name": "Summit Ranch",
+        "Lat": "39.71796",
+        "Lng": "-106.15802",
+        "SiteID": "802",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9400"
+    },
+    {
+        "Name": "Sunset",
+        "Lat": "47.55545",
+        "Lng": "-115.82422",
+        "SiteID": "803",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5540"
+    },
+    {
+        "Name": "Surprise Lakes",
+        "Lat": "46.09497",
+        "Lng": "-121.76345",
+        "SiteID": "804",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4290"
+    },
+    {
+        "Name": "Swede Peak",
+        "Lat": "43.626",
+        "Lng": "-113.96887",
+        "SiteID": "805",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7640"
+    },
+    {
+        "Name": "Sylvan Lake",
+        "Lat": "44.47764",
+        "Lng": "-110.15651",
+        "SiteID": "806",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8420"
+    },
+    {
+        "Name": "Sylvan Road",
+        "Lat": "44.47825",
+        "Lng": "-110.03808",
+        "SiteID": "807",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7120"
+    },
+    {
+        "Name": "Tahoe City Cross",
+        "Lat": "39.17162",
+        "Lng": "-120.15362",
+        "SiteID": "809",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "6797"
+    },
+    {
+        "Name": "Taylor Butte",
+        "Lat": "42.69108",
+        "Lng": "-121.42592",
+        "SiteID": "810",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5030"
+    },
+    {
+        "Name": "Taylor Canyon",
+        "Lat": "41.2287",
+        "Lng": "-116.0293",
+        "SiteID": "811",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "6325"
+    },
+    {
+        "Name": "Taylor Green",
+        "Lat": "45.07707",
+        "Lng": "-117.55067",
+        "SiteID": "812",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5740"
+    },
+    {
+        "Name": "Tepee Creek",
+        "Lat": "44.78562",
+        "Lng": "-111.71",
+        "SiteID": "813",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8000"
+    },
+    {
+        "Name": "Thaynes Canyon",
+        "Lat": "40.6235",
+        "Lng": "-111.53322",
+        "SiteID": "814",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9230"
+    },
+    {
+        "Name": "Three Creeks Meadow",
+        "Lat": "44.14425",
+        "Lng": "-121.64095",
+        "SiteID": "815",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5690"
+    },
+    {
+        "Name": "Thumb Divide",
+        "Lat": "44.36917",
+        "Lng": "-110.57717",
+        "SiteID": "816",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7980"
+    },
+    {
+        "Name": "Thunder Basin",
+        "Lat": "48.52753",
+        "Lng": "-120.9895",
+        "SiteID": "817",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4320"
+    },
+    {
+        "Name": "Tie Creek",
+        "Lat": "44.81243",
+        "Lng": "-107.41017",
+        "SiteID": "818",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "6870"
+    },
+    {
+        "Name": "Timber Creek",
+        "Lat": "44.0274",
+        "Lng": "-109.17879",
+        "SiteID": "819",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7950"
+    },
+    {
+        "Name": "Timpanogos Divide",
+        "Lat": "40.42817",
+        "Lng": "-111.61633",
+        "SiteID": "820",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8140"
+    },
+    {
+        "Name": "Tipton",
+        "Lat": "44.65567",
+        "Lng": "-118.42617",
+        "SiteID": "821",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5150"
+    },
+    {
+        "Name": "Togwotee Pass",
+        "Lat": "43.74902",
+        "Lng": "-110.0578",
+        "SiteID": "822",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9580"
+    },
+    {
+        "Name": "Tony Grove Lake",
+        "Lat": "41.89833",
+        "Lng": "-111.62957",
+        "SiteID": "823",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8474"
+    },
+    {
+        "Name": "Touchet",
+        "Lat": "46.11868",
+        "Lng": "-117.8505",
+        "SiteID": "824",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5530"
+    },
+    {
+        "Name": "Tower",
+        "Lat": "40.53743",
+        "Lng": "-106.6768",
+        "SiteID": "825",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10500"
+    },
+    {
+        "Name": "Townsend Creek",
+        "Lat": "42.69525",
+        "Lng": "-108.89572",
+        "SiteID": "826",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8700"
+    },
+    {
+        "Name": "Trapper Lake",
+        "Lat": "39.99884",
+        "Lng": "-107.2362",
+        "SiteID": "827",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9700"
+    },
+    {
+        "Name": "Trial Lake",
+        "Lat": "40.678",
+        "Lng": "-110.94873",
+        "SiteID": "828",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9992"
+    },
+    {
+        "Name": "Trinchera",
+        "Lat": "37.35328",
+        "Lng": "-105.23233",
+        "SiteID": "829",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10860"
+    },
+    {
+        "Name": "Trinity Mtn.",
+        "Lat": "43.62903",
+        "Lng": "-115.43818",
+        "SiteID": "830",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7770"
+    },
+    {
+        "Name": "Triple Peak",
+        "Lat": "42.76393",
+        "Lng": "-110.5914",
+        "SiteID": "831",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8500"
+    },
+    {
+        "Name": "Trough",
+        "Lat": "47.23328",
+        "Lng": "-120.29412",
+        "SiteID": "832",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5480"
+    },
+    {
+        "Name": "Trout Creek",
+        "Lat": "40.739",
+        "Lng": "-109.6728",
+        "SiteID": "833",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9518"
+    },
+    {
+        "Name": "Truckee #2",
+        "Lat": "39.30087",
+        "Lng": "-120.18407",
+        "SiteID": "834",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "6509"
+    },
+    {
+        "Name": "Twelvemile Creek",
+        "Lat": "46.14287",
+        "Lng": "-114.44755",
+        "SiteID": "835",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "5600"
+    },
+    {
+        "Name": "Twin Lakes",
+        "Lat": "46.1438",
+        "Lng": "-114.5056",
+        "SiteID": "836",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6400"
+    },
+    {
+        "Name": "Two Ocean Plateau",
+        "Lat": "44.15178",
+        "Lng": "-110.22122",
+        "SiteID": "837",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9240"
+    },
+    {
+        "Name": "University Camp",
+        "Lat": "40.03279",
+        "Lng": "-105.57615",
+        "SiteID": "838",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10300"
+    },
+    {
+        "Name": "Upper Rio Grande",
+        "Lat": "37.72194",
+        "Lng": "-107.26015",
+        "SiteID": "839",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9400"
+    },
+    {
+        "Name": "Upper San Juan",
+        "Lat": "37.48576",
+        "Lng": "-106.83535",
+        "SiteID": "840",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10200"
+    },
+    {
+        "Name": "Upper Wheeler",
+        "Lat": "47.28734",
+        "Lng": "-120.37015",
+        "SiteID": "841",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4330"
+    },
+    {
+        "Name": "Vail Mountain",
+        "Lat": "39.61676",
+        "Lng": "-106.38006",
+        "SiteID": "842",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10300"
+    },
+    {
+        "Name": "Vallecito",
+        "Lat": "37.4851",
+        "Lng": "-107.5068",
+        "SiteID": "843",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10880"
+    },
+    {
+        "Name": "Vernon Creek",
+        "Lat": "39.93667",
+        "Lng": "-112.41478",
+        "SiteID": "844",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7401"
+    },
+    {
+        "Name": "Vienna Mine",
+        "Lat": "43.79942",
+        "Lng": "-114.85273",
+        "SiteID": "845",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "8960"
+    },
+    {
+        "Name": "Virginia Lakes Ridge",
+        "Lat": "38.07298",
+        "Lng": "-119.23433",
+        "SiteID": "846",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "9400"
+    },
+    {
+        "Name": "Waldron",
+        "Lat": "47.91998",
+        "Lng": "-112.79087",
+        "SiteID": "847",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "5600"
+    },
+    {
+        "Name": "Ward Creek #3",
+        "Lat": "39.13545",
+        "Lng": "-120.21865",
+        "SiteID": "848",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "6745"
+    },
+    {
+        "Name": "Ward Mountain",
+        "Lat": "39.13242",
+        "Lng": "-114.95575",
+        "SiteID": "849",
+        "USState": "NV",
+        "StationType": "SNTL",
+        "Elevation": "9163"
+    },
+    {
+        "Name": "Warm Springs",
+        "Lat": "46.27368",
+        "Lng": "-113.164",
+        "SiteID": "850",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7800"
+    },
+    {
+        "Name": "Webber Springs",
+        "Lat": "41.15946",
+        "Lng": "-106.92714",
+        "SiteID": "852",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9250"
+    },
+    {
+        "Name": "Webster Flat",
+        "Lat": "37.575",
+        "Lng": "-112.90155",
+        "SiteID": "853",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9203"
+    },
+    {
+        "Name": "Wesner Springs",
+        "Lat": "35.77556",
+        "Lng": "-105.5425",
+        "SiteID": "854",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "11120"
+    },
+    {
+        "Name": "West Branch",
+        "Lat": "45.0722",
+        "Lng": "-116.45413",
+        "SiteID": "855",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5560"
+    },
+    {
+        "Name": "Parleys Upper",
+        "Lat": "40.70194",
+        "Lng": "-111.60619",
+        "SiteID": "856",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8353"
+    },
+    {
+        "Name": "Whiskey Ck",
+        "Lat": "37.21411",
+        "Lng": "-105.12245",
+        "SiteID": "857",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10220"
+    },
+    {
+        "Name": "Whiskey Creek",
+        "Lat": "44.61088",
+        "Lng": "-111.14998",
+        "SiteID": "858",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6800"
+    },
+    {
+        "Name": "Whiskey Park",
+        "Lat": "41.00289",
+        "Lng": "-106.90848",
+        "SiteID": "859",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8950"
+    },
+    {
+        "Name": "White Elephant",
+        "Lat": "44.53267",
+        "Lng": "-111.41085",
+        "SiteID": "860",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7710"
+    },
+    {
+        "Name": "White Horse Lake",
+        "Lat": "35.14202",
+        "Lng": "-112.14915",
+        "SiteID": "861",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "7180"
+    },
+    {
+        "Name": "White Mill",
+        "Lat": "45.04575",
+        "Lng": "-109.90987",
+        "SiteID": "862",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8700"
+    },
+    {
+        "Name": "White Pass E.S.",
+        "Lat": "46.64142",
+        "Lng": "-121.38153",
+        "SiteID": "863",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4440"
+    },
+    {
+        "Name": "White River #1",
+        "Lat": "39.9645",
+        "Lng": "-110.98845",
+        "SiteID": "864",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8641"
+    },
+    {
+        "Name": "Widtsoe #3",
+        "Lat": "37.83633",
+        "Lng": "-111.88163",
+        "SiteID": "865",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "9640"
+    },
+    {
+        "Name": "Wildcat",
+        "Lat": "33.75835",
+        "Lng": "-109.47973",
+        "SiteID": "866",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "7850"
+    },
+    {
+        "Name": "Wildhorse Divide",
+        "Lat": "42.75743",
+        "Lng": "-112.47783",
+        "SiteID": "867",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6490"
+    },
+    {
+        "Name": "Willow Creek",
+        "Lat": "42.81513",
+        "Lng": "-110.83515",
+        "SiteID": "868",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8080"
+    },
+    {
+        "Name": "Willow Creek Pass",
+        "Lat": "40.34703",
+        "Lng": "-106.09433",
+        "SiteID": "869",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9540"
+    },
+    {
+        "Name": "Willow Park",
+        "Lat": "40.43254",
+        "Lng": "-105.73337",
+        "SiteID": "870",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10700"
+    },
+    {
+        "Name": "Wilson Creek",
+        "Lat": "42.01257",
+        "Lng": "-115.00278",
+        "SiteID": "871",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "7120"
+    },
+    {
+        "Name": "Windy Peak",
+        "Lat": "42.2802",
+        "Lng": "-105.57816",
+        "SiteID": "872",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7900"
+    },
+    {
+        "Name": "Wolf Creek",
+        "Lat": "45.06703",
+        "Lng": "-118.15192",
+        "SiteID": "873",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "5630"
+    },
+    {
+        "Name": "Wolf Creek Summit",
+        "Lat": "37.47922",
+        "Lng": "-106.8017",
+        "SiteID": "874",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11000"
+    },
+    {
+        "Name": "Wolverine",
+        "Lat": "44.80417",
+        "Lng": "-109.657",
+        "SiteID": "875",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7650"
+    },
+    {
+        "Name": "Wood Creek",
+        "Lat": "47.44847",
+        "Lng": "-112.81428",
+        "SiteID": "876",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "5960"
+    },
+    {
+        "Name": "Workman Creek",
+        "Lat": "33.81242",
+        "Lng": "-110.91773",
+        "SiteID": "877",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "6900"
+    },
+    {
+        "Name": "Younts Peak",
+        "Lat": "43.93225",
+        "Lng": "-109.81775",
+        "SiteID": "878",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "8350"
+    },
+    {
+        "Name": "Tizer Basin",
+        "Lat": "46.34937",
+        "Lng": "-111.85308",
+        "SiteID": "893",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6880"
+    },
+    {
+        "Name": "Chocolate Gulch",
+        "Lat": "43.7685",
+        "Lng": "-114.41812",
+        "SiteID": "895",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6310"
+    },
+    {
+        "Name": "Hardscrabble",
+        "Lat": "40.86833",
+        "Lng": "-111.71865",
+        "SiteID": "896",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7250"
+    },
+    {
+        "Name": "Meadows Pass",
+        "Lat": "47.28312",
+        "Lng": "-121.47197",
+        "SiteID": "897",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3230"
+    },
+    {
+        "Name": "Mount Gardner",
+        "Lat": "47.35768",
+        "Lng": "-121.56812",
+        "SiteID": "898",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "2920"
+    },
+    {
+        "Name": "Tinkham Creek",
+        "Lat": "47.33198",
+        "Lng": "-121.46975",
+        "SiteID": "899",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "2990"
+    },
+    {
+        "Name": "Stuart Mountain",
+        "Lat": "46.99523",
+        "Lng": "-113.92664",
+        "SiteID": "901",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7400"
+    },
+    {
+        "Name": "Beaver Head",
+        "Lat": "33.69144",
+        "Lng": "-109.21657",
+        "SiteID": "902",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "7990"
+    },
+    {
+        "Name": "Nevada Ridge",
+        "Lat": "46.84234",
+        "Lng": "-112.50787",
+        "SiteID": "903",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7020"
+    },
+    {
+        "Name": "Columbus Basin",
+        "Lat": "37.44147",
+        "Lng": "-108.02445",
+        "SiteID": "904",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10785"
+    },
+    {
+        "Name": "Mancos",
+        "Lat": "37.43087",
+        "Lng": "-108.16954",
+        "SiteID": "905",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10000"
+    },
+    {
+        "Name": "Dry Fork",
+        "Lat": "40.56533",
+        "Lng": "-112.17343",
+        "SiteID": "906",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7093"
+    },
+    {
+        "Name": "Agua Canyon",
+        "Lat": "37.52217",
+        "Lng": "-112.27118",
+        "SiteID": "907",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8900"
+    },
+    {
+        "Name": "Alpine Meadows",
+        "Lat": "47.77957",
+        "Lng": "-121.69847",
+        "SiteID": "908",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3500"
+    },
+    {
+        "Name": "Wells Creek",
+        "Lat": "48.8661",
+        "Lng": "-121.78976",
+        "SiteID": "909",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4030"
+    },
+    {
+        "Name": "Elbow Lake",
+        "Lat": "48.69092",
+        "Lng": "-121.90893",
+        "SiteID": "910",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3040"
+    },
+    {
+        "Name": "Rex River",
+        "Lat": "47.30218",
+        "Lng": "-121.60475",
+        "SiteID": "911",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3810"
+    },
+    {
+        "Name": "Skookum Creek",
+        "Lat": "47.68433",
+        "Lng": "-121.61007",
+        "SiteID": "912",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3310"
+    },
+    {
+        "Name": "Buffalo Park",
+        "Lat": "40.22861",
+        "Lng": "-106.59528",
+        "SiteID": "913",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9240"
+    },
+    {
+        "Name": "Medano Pass",
+        "Lat": "37.85164",
+        "Lng": "-105.43614",
+        "SiteID": "914",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9649"
+    },
+    {
+        "Name": "Schwartz Lake",
+        "Lat": "44.84618",
+        "Lng": "-113.83732",
+        "SiteID": "915",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "8630"
+    },
+    {
+        "Name": "Albro Lake",
+        "Lat": "45.59723",
+        "Lng": "-111.95902",
+        "SiteID": "916",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "8300"
+    },
+    {
+        "Name": "Rocky Boy",
+        "Lat": "48.17478",
+        "Lng": "-109.64728",
+        "SiteID": "917",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "4700"
+    },
+    {
+        "Name": "Garver Creek",
+        "Lat": "48.97523",
+        "Lng": "-115.81915",
+        "SiteID": "918",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "4250"
+    },
+    {
+        "Name": "Daisy Peak",
+        "Lat": "46.66858",
+        "Lng": "-110.33022",
+        "SiteID": "919",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7600"
+    },
+    {
+        "Name": "North Rapid Creek",
+        "Lat": "44.20617",
+        "Lng": "-103.78758",
+        "SiteID": "920",
+        "USState": "SD",
+        "StationType": "SNTL",
+        "Elevation": "6130"
+    },
+    {
+        "Name": "Elk Cabin",
+        "Lat": "35.7043",
+        "Lng": "-105.80675",
+        "SiteID": "921",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "8210"
+    },
+    {
+        "Name": "Santa Fe",
+        "Lat": "35.76694",
+        "Lng": "-105.78333",
+        "SiteID": "922",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "11445"
+    },
+    {
+        "Name": "Deer Park",
+        "Lat": "42.59076",
+        "Lng": "-108.90273",
+        "SiteID": "923",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9700"
+    },
+    {
+        "Name": "West Yellowstone",
+        "Lat": "44.65866",
+        "Lng": "-111.09199",
+        "SiteID": "924",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6700"
+    },
+    {
+        "Name": "South Fork Bull Run",
+        "Lat": "45.44575",
+        "Lng": "-122.03125",
+        "SiteID": "925",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "2690"
+    },
+    {
+        "Name": "Smiley Mountain",
+        "Lat": "43.72718",
+        "Lng": "-113.83402",
+        "SiteID": "926",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "9520"
+    },
+    {
+        "Name": "Snowslide Canyon",
+        "Lat": "35.3416",
+        "Lng": "-111.65058",
+        "SiteID": "927",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "9730"
+    },
+    {
+        "Name": "Huckleberry Creek",
+        "Lat": "47.06565",
+        "Lng": "-121.58778",
+        "SiteID": "928",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "2250"
+    },
+    {
+        "Name": "Sacajawea",
+        "Lat": "45.87395",
+        "Lng": "-110.92783",
+        "SiteID": "929",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "6550"
+    },
+    {
+        "Name": "Peterson Meadows",
+        "Lat": "46.12588",
+        "Lng": "-113.30792",
+        "SiteID": "930",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "7200"
+    },
+    {
+        "Name": "Big Goose",
+        "Lat": "44.57924",
+        "Lng": "-107.20068",
+        "SiteID": "931",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "7990"
+    },
+    {
+        "Name": "Poorman Creek",
+        "Lat": "48.12672",
+        "Lng": "-115.62333",
+        "SiteID": "932",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "5100"
+    },
+    {
+        "Name": "Rice Park",
+        "Lat": "35.23333",
+        "Lng": "-108.26667",
+        "SiteID": "933",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "8460"
+    },
+    {
+        "Name": "Tolby",
+        "Lat": "36.47493",
+        "Lng": "-105.19468",
+        "SiteID": "934",
+        "USState": "NM",
+        "StationType": "SNTL",
+        "Elevation": "10180"
+    },
+    {
+        "Name": "Jackwhacker Gulch",
+        "Lat": "39.56667",
+        "Lng": "-105.8",
+        "SiteID": "935",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10960"
+    },
+    {
+        "Name": "Echo Lake",
+        "Lat": "39.65627",
+        "Lng": "-105.59345",
+        "SiteID": "936",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10600"
+    },
+    {
+        "Name": "Michigan Creek",
+        "Lat": "39.43577",
+        "Lng": "-105.91078",
+        "SiteID": "937",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10600"
+    },
+    {
+        "Name": "Buckskin Joe",
+        "Lat": "39.3035",
+        "Lng": "-106.11307",
+        "SiteID": "938",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "11150"
+    },
+    {
+        "Name": "Rough And Tumble",
+        "Lat": "39.03333",
+        "Lng": "-106.08333",
+        "SiteID": "939",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10360"
+    },
+    {
+        "Name": "Lost Dog",
+        "Lat": "40.81588",
+        "Lng": "-106.74835",
+        "SiteID": "940",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "9320"
+    },
+    {
+        "Name": "Mowich",
+        "Lat": "46.92833",
+        "Lng": "-121.95232",
+        "SiteID": "941",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3160"
+    },
+    {
+        "Name": "Burnt Mountain",
+        "Lat": "47.0444",
+        "Lng": "-121.94032",
+        "SiteID": "942",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4170"
+    },
+    {
+        "Name": "Dungeness",
+        "Lat": "47.87224",
+        "Lng": "-123.0788",
+        "SiteID": "943",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4010"
+    },
+    {
+        "Name": "Gunsight Pass",
+        "Lat": "43.38332",
+        "Lng": "-109.87815",
+        "SiteID": "944",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "9820"
+    },
+    {
+        "Name": "Gerber Reservoir",
+        "Lat": "42.2062",
+        "Lng": "-121.1334",
+        "SiteID": "945",
+        "USState": "OR",
+        "StationType": "SNTL",
+        "Elevation": "4890"
+    },
+    {
+        "Name": "Indian Pass",
+        "Lat": "61.06767",
+        "Lng": "-149.4795",
+        "SiteID": "946",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "2350"
+    },
+    {
+        "Name": "Little Chena Ridge",
+        "Lat": "65.12422",
+        "Lng": "-146.7339",
+        "SiteID": "947",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "2000"
+    },
+    {
+        "Name": "Mt. Ryan",
+        "Lat": "65.25113",
+        "Lng": "-146.15133",
+        "SiteID": "948",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "2800"
+    },
+    {
+        "Name": "Monument Creek",
+        "Lat": "65.07833",
+        "Lng": "-145.87067",
+        "SiteID": "949",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1850"
+    },
+    {
+        "Name": "Munson Ridge",
+        "Lat": "64.85033",
+        "Lng": "-146.20945",
+        "SiteID": "950",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "3100"
+    },
+    {
+        "Name": "Teuchet Creek",
+        "Lat": "64.94583",
+        "Lng": "-145.51667",
+        "SiteID": "951",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1640"
+    },
+    {
+        "Name": "Upper Chena",
+        "Lat": "65.1",
+        "Lng": "-144.93317",
+        "SiteID": "952",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "2850"
+    },
+    {
+        "Name": "Turnagain Pass",
+        "Lat": "60.78043",
+        "Lng": "-149.18325",
+        "SiteID": "954",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1880"
+    },
+    {
+        "Name": "Summit Creek",
+        "Lat": "60.61713",
+        "Lng": "-149.53128",
+        "SiteID": "955",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1400"
+    },
+    {
+        "Name": "Grandview",
+        "Lat": "60.60832",
+        "Lng": "-149.06313",
+        "SiteID": "956",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1100"
+    },
+    {
+        "Name": "Atigun Pass",
+        "Lat": "68.12983",
+        "Lng": "-149.47817",
+        "SiteID": "957",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "4800"
+    },
+    {
+        "Name": "Coldfoot",
+        "Lat": "67.25333",
+        "Lng": "-150.183",
+        "SiteID": "958",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1040"
+    },
+    {
+        "Name": "Cooper Lake",
+        "Lat": "60.39027",
+        "Lng": "-149.6936",
+        "SiteID": "959",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1200"
+    },
+    {
+        "Name": "Eagle Summit",
+        "Lat": "65.48588",
+        "Lng": "-145.41212",
+        "SiteID": "960",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "3650"
+    },
+    {
+        "Name": "Fort Yukon",
+        "Lat": "66.5705",
+        "Lng": "-145.24553",
+        "SiteID": "961",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "430"
+    },
+    {
+        "Name": "Gobblers Knob",
+        "Lat": "66.745",
+        "Lng": "-150.6675",
+        "SiteID": "962",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "2030"
+    },
+    {
+        "Name": "Granite Crk",
+        "Lat": "63.94382",
+        "Lng": "-145.39993",
+        "SiteID": "963",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "1240"
+    },
+    {
+        "Name": "Grouse Creek Divide",
+        "Lat": "60.25965",
+        "Lng": "-149.34228",
+        "SiteID": "964",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "700"
+    },
+    {
+        "Name": "Kenai Moose Pens",
+        "Lat": "60.727",
+        "Lng": "-150.47517",
+        "SiteID": "966",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "300"
+    },
+    {
+        "Name": "Susitna Valley High",
+        "Lat": "62.13333",
+        "Lng": "-150.04167",
+        "SiteID": "967",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "375"
+    },
+    {
+        "Name": "Imnaviat Creek",
+        "Lat": "68.61683",
+        "Lng": "-149.30017",
+        "SiteID": "968",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "3050"
+    },
+    {
+        "Name": "Happy Jack",
+        "Lat": "34.74598",
+        "Lng": "-111.41207",
+        "SiteID": "969",
+        "USState": "AZ",
+        "StationType": "SNTL",
+        "Elevation": "7630"
+    },
+    {
+        "Name": "Jones Pass",
+        "Lat": "39.7645",
+        "Lng": "-105.90623",
+        "SiteID": "970",
+        "USState": "CO",
+        "StationType": "SNTL",
+        "Elevation": "10400"
+    },
+    {
+        "Name": "Parrish Creek",
+        "Lat": "40.93417",
+        "Lng": "-111.81372",
+        "SiteID": "971",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "7740"
+    },
+    {
+        "Name": "Louis Meadow",
+        "Lat": "40.83033",
+        "Lng": "-111.76457",
+        "SiteID": "972",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "6700"
+    },
+    {
+        "Name": "Rocky Point",
+        "Lat": "64.53482",
+        "Lng": "-163.4214",
+        "SiteID": "973",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "250"
+    },
+    {
+        "Name": "Waterhole",
+        "Lat": "47.94485",
+        "Lng": "-123.42594",
+        "SiteID": "974",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5010"
+    },
+    {
+        "Name": "Swamp Creek",
+        "Lat": "48.57142",
+        "Lng": "-120.78267",
+        "SiteID": "975",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3930"
+    },
+    {
+        "Name": "Crowder Flat",
+        "Lat": "41.89318",
+        "Lng": "-120.75202",
+        "SiteID": "977",
+        "USState": "CA",
+        "StationType": "SNTL",
+        "Elevation": "5170"
+    },
+    {
+        "Name": "Bogus Basin",
+        "Lat": "43.76377",
+        "Lng": "-116.09685",
+        "SiteID": "978",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "6340"
+    },
+    {
+        "Name": "Van Wyck",
+        "Lat": "44.37665",
+        "Lng": "-116.3366",
+        "SiteID": "979",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "4920"
+    },
+    {
+        "Name": "Burnt Mtn",
+        "Lat": "45.2401",
+        "Lng": "-109.45961",
+        "SiteID": "981",
+        "USState": "MT",
+        "StationType": "SNTL",
+        "Elevation": "5880"
+    },
+    {
+        "Name": "Cole Canyon",
+        "Lat": "44.48632",
+        "Lng": "-104.41057",
+        "SiteID": "982",
+        "USState": "WY",
+        "StationType": "SNTL",
+        "Elevation": "5910"
+    },
+    {
+        "Name": "Clayton Springs",
+        "Lat": "37.9725",
+        "Lng": "-111.83355",
+        "SiteID": "983",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "10049"
+    },
+    {
+        "Name": "Spruce Springs",
+        "Lat": "46.18287",
+        "Lng": "-117.54155",
+        "SiteID": "984",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5700"
+    },
+    {
+        "Name": "Sourdough Gulch",
+        "Lat": "46.23718",
+        "Lng": "-117.39438",
+        "SiteID": "985",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "4000"
+    },
+    {
+        "Name": "Pargon Creek",
+        "Lat": "64.9935",
+        "Lng": "-163.10317",
+        "SiteID": "986",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "100"
+    },
+    {
+        "Name": "Port Graham",
+        "Lat": "59.35065",
+        "Lng": "-151.84768",
+        "SiteID": "987",
+        "USState": "AK",
+        "StationType": "SNTL",
+        "Elevation": "300"
+    },
+    {
+        "Name": "Hidden Lake",
+        "Lat": "48.8937",
+        "Lng": "-116.75748",
+        "SiteID": "988",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "5040"
+    },
+    {
+        "Name": "Moscow Mountain",
+        "Lat": "46.805",
+        "Lng": "-116.8535",
+        "SiteID": "989",
+        "USState": "ID",
+        "StationType": "SNTL",
+        "Elevation": "4700"
+    },
+    {
+        "Name": "Beaver Pass",
+        "Lat": "48.8793",
+        "Lng": "-121.2555",
+        "SiteID": "990",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3630"
+    },
+    {
+        "Name": "Hozomeen Camp",
+        "Lat": "48.98075",
+        "Lng": "-121.07976",
+        "SiteID": "991",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "1690"
+    },
+    {
+        "Name": "Bear River RS",
+        "Lat": "40.8852",
+        "Lng": "-110.8277",
+        "SiteID": "992",
+        "USState": "UT",
+        "StationType": "SNTL",
+        "Elevation": "8777"
+    },
+    {
+        "Name": "Easy Pass",
+        "Lat": "48.85933",
+        "Lng": "-121.43895",
+        "SiteID": "998",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "5270"
+    },
+    {
+        "Name": "Marten Ridge",
+        "Lat": "48.76292",
+        "Lng": "-121.69823",
+        "SiteID": "999",
+        "USState": "WA",
+        "StationType": "SNTL",
+        "Elevation": "3520"
+    }
+]
