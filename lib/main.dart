@@ -6,8 +6,11 @@ import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:http/http.dart' as http;
 import 'package:weather_graph/mapdata.dart';
+import 'package:weather_graph/mapdatagooglemap.dart';
 
+//void main() => runApp(MapDataGM());
 void main() => runApp(MapData());
+
 
 Future<List<Sites>> fetchSites(http.Client client) async {
   final response =
