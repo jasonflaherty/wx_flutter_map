@@ -27,6 +27,7 @@ class MapSample extends StatefulWidget {
 
 class MapSampleState extends State<MapSample> {
   Completer<GoogleMapController> _controller = Completer();
+  final bitmapIcon = BitmapDescriptor.fromAssetImage(ImageConfiguration(size: Size(48,48)), 'assets/images/bluepin.png');
 
   static final CameraPosition _kGooglePlex = CameraPosition(
     target: LatLng(37.42796133580664, -122.085749655962),
@@ -54,6 +55,7 @@ class MapSampleState extends State<MapSample> {
           markerId: MarkerId(s.siteID),
           position: new LatLng(double.parse(s.lat), double.parse(s.lng)),
           infoWindow: InfoWindow(title: s.name,snippet: s.siteID),
+          //icon: bitmapIcon,
           onTap: (){
             
           }
@@ -65,12 +67,12 @@ class MapSampleState extends State<MapSample> {
 
   @override
   initState() {
-    
+    _initMarkers();
     super.initState();
   }
-
+ 
   MapSampleState() {
-_initMarkers();
+
   }
 
   @override

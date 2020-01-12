@@ -22,7 +22,10 @@ class _MapDataState extends State<MapData> {
   List<SnoTelSite> sts = [];
   var marker = <Marker>[];
 
-  _MapDataState(){
+  @override
+  initState() {
+    print("INIT STATE");
+    super.initState();
     loadSites().then((sitesdata) {
       print('Loaded Sites Asset JSON');
       //clone sitesdata into sts array
@@ -30,22 +33,21 @@ class _MapDataState extends State<MapData> {
       sts.forEach((s) {
         marker.add(
           Marker(
-            point: new LatLng(double.parse(s.lat),double.parse(s.lng)),
-            builder: (ctx) => _MarkerPopUp(sitename: s.name, siteelevation: s.elevation, siteid: s.siteID,),
+            point: new LatLng(double.parse(s.lat), double.parse(s.lng)),
+            builder: (ctx) => _MarkerPopUp(
+              sitename: s.name,
+              siteelevation: s.elevation,
+              siteid: s.siteID,
+            ),
           ),
         );
       });
+      setState(() {
+        print("adding markers ... setstate");
+        marker = marker;
+      });
     });
-    
   }
-
-  @override
-  initState() {
-    
-    print(marker.length);
-    super.initState();
-  }
-
 
   //local load assets ... constants hold path snotelsitesjson
   Future<String> _loadSiteAssets() async {
@@ -56,15 +58,13 @@ class _MapDataState extends State<MapData> {
     String jsonString = await _loadSiteAssets();
     final jsonResponse = json.decode(jsonString);
     SitesList sitesList = new SitesList.fromJson(jsonResponse);
-    // for(final i in sitesList.sites){
-    //   print(i.name);
-    // }
     return sitesList.sites;
   }
 
 //main build and screen layout
   @override
   Widget build(BuildContext context) {
+    print("BUILD LAYOUT");
     return MaterialApp(
       theme: ThemeData(
         primarySwatch: Colors.cyan,
@@ -72,30 +72,24 @@ class _MapDataState extends State<MapData> {
       home: Scaffold(
           appBar: AppBar(
             backgroundColor: Colors.white,
-            //setting the icon for the AppBar
             leading: Icon(Icons.ac_unit),
-            //setting title for the AppBar
             title: Text("SnoTel Map"),
             actions: <Widget>[
               IconButton(
                 icon: Icon(Icons.favorite),
                 onPressed: () {
-                  //Handling click on the action items
                   debugPrint("Favorites");
                 },
               ),
-              //Setting IconButton action item to send message
               IconButton(
                 icon: Icon(Icons.feedback),
                 onPressed: () {
-                  //Handling click on the action items
                   debugPrint("Message sent");
                 },
               ),
-              //Setting Overflow action items using PopupMenuButton
             ],
           ),
-          body: _MapWidget()),
+          body: _MapWidget(marker: marker)),
     );
   }
 }
@@ -103,24 +97,15 @@ class _MapDataState extends State<MapData> {
 //map widget
 class _MapWidget extends StatelessWidget {
 //const so flutter doesn't rebuild it each time...
-  const _MapWidget();
+  const _MapWidget({this.marker});
+
+  final List<Marker> marker;
   final SiteID sid = null;
   final Sites site = null;
 
   @override
   Widget build(BuildContext context) {
-    
-    // var parsedMarkers = <Marker>[
-    //   new Marker(
-    //     point: new LatLng(40.1, -120),
-    //     builder: (ctx) => _MarkerPopUp(site: "Name of Marker 1"),
-    //   ),
-    //   new Marker(
-    //     point: new LatLng(40.5, -120),
-    //     builder: (ctx) => _MarkerPopUp(site: "Site 2"),
-    //   ),
-    // ];
-
+    print("add map");
     return new FlutterMap(
       options: new MapOptions(
         center: new LatLng(40.0, -120.0),
@@ -133,7 +118,7 @@ class _MapWidget extends StatelessWidget {
           subdomains: ['a', 'b', 'c'],
           tileProvider: CachedNetworkTileProvider(),
         ),
-        new MarkerLayerOptions(markers: _MapDataState().marker),
+        new MarkerLayerOptions(markers: marker),
       ],
     );
   }
@@ -142,7 +127,8 @@ class _MapWidget extends StatelessWidget {
 //marker bottomsheet
 class _MarkerPopUp extends StatelessWidget {
   //getting sid data from marker into this bottomsheet
-  _MarkerPopUp({Key key, this.sitename, this.siteelevation, this.siteid}) : super(key: key);
+  _MarkerPopUp({Key key, this.sitename, this.siteelevation, this.siteid})
+      : super(key: key);
   final String sitename, siteelevation, siteid;
 
   @override
