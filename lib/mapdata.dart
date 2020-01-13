@@ -1,5 +1,6 @@
 import 'dart:async';
 import 'dart:convert';
+import 'dart:io';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
@@ -142,21 +143,7 @@ class _MarkerPopUp extends StatelessWidget {
             onPressed: () {
               showBottomSheet(
                 context: context,
-                builder: (context) => Container(
-                    height: 500,
-                    color: Colors.blueGrey,
-                    child: Row(
-                      children: <Widget>[
-                        Padding(
-                          padding: EdgeInsets.all(15),
-                          child: Text(
-                            "ID: $siteid : $siteelevation : $sitename",
-                            style: TextStyle(
-                                fontWeight: FontWeight.bold, fontSize: 24),
-                          ),
-                        ),
-                      ],
-                    )),
+                builder: (context) => OneSiteData(siteid: siteid, siteelevation: siteelevation, sitename: sitename,)
               );
             },
             child: Icon(
@@ -168,6 +155,30 @@ class _MarkerPopUp extends StatelessWidget {
         )),
       ),
     ]);
+  }
+}
+
+class OneSiteData extends StatelessWidget {
+  const OneSiteData({Key key, this.sitename, this.siteelevation, this.siteid})
+      : super(key: key);
+
+  final String sitename, siteelevation, siteid;
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+        height: 500,
+        color: Colors.blueGrey,
+        child: Row(
+          children: <Widget>[
+            Padding(
+              padding: EdgeInsets.all(15),
+              child: Text(
+                "ID: $siteid : $siteelevation : $sitename",
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24),
+              ),
+            ),
+          ],
+        ));
   }
 }
 
