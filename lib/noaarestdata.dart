@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_cache_manager/flutter_cache_manager.dart';
 import 'package:http/http.dart' as http;
 import 'package:weather_graph/constants.dart';
+import 'package:weather_graph/mainog.dart';
 
 Future<String> noaaData() async {
   var headers = {
@@ -23,15 +24,49 @@ Future<String> noaaData() async {
   return res.body;
 }
 
-Future<String> noaaCSVData() async {
-  String csvurl =
-      "https://wcc.sc.egov.usda.gov/reportGenerator/view_csv/customMultiTimeSeriesGroupByStationReport/hourly/start_of_period/343:OR:SNTL%7Cid=%22%22%7Cname/-167,0/SNWD::value,WTEQ::value,WTEQ::qcFlag";
+Future<List<String>> nrcsCSVData() async {
+  String url1 =
+      "http://wcc.sc.egov.usda.gov/reportGenerator/view_csv/customSingleStationReport/daily/";
+  String url2 =
+      ":SNTL%7Cid=%22%22%7Cname/-6,0/TOBS::value,TMAX::value,TMIN::value,SNWD::value,SNWD::prevValue,WTEQ::value,PREC::value,elevation";
 
-  var csvdata = await DefaultCacheManager().getSingleFile(csvurl);
+  String SiteCSVUrl = url1 + "1000:OR" + url2;
 
-  //var csvdata = await http.get(csvurl);
-  print(csvdata);
-  return csvdata.toString();
+  var from = "N/A";
+  String csvdocinstring;
+  List<String> lines;
+  List<String> siteData = List<String>();
+  FileInfo fileInfo;
+  String error;
+  File csvFile;
+
+  DefaultCacheManager().getFile(SiteCSVUrl).listen((f) {
+    if (fileInfo != null) {
+      from = fileInfo.file.path;
+      csvFile = new File(from);
+      lines = csvFile.readAsLinesSync();
+      lines.forEach((l) {
+        print(l[0]);
+        if (l[0] != "#") {
+          siteData.add(l);
+        }
+      });
+    }
+  });
+  return siteData;
+}
+
+class NrcsData extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return new MaterialApp(
+      title: 'NRCS Data',
+      theme: new ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      home: new NoaaApiData(),
+    );
+  }
 }
 
 class NoaaApiData extends StatefulWidget {
@@ -46,10 +81,14 @@ class _NoaaApiDataState extends State<NoaaApiData> {
   String error;
   File data;
   _downloadFile() {
-    String csvurl =
-        "https://wcc.sc.egov.usda.gov/reportGenerator/view_csv/customMultiTimeSeriesGroupByStationReport/hourly/start_of_period/343:OR:SNTL%7Cid=%22%22%7Cname/-167,0/SNWD::value,WTEQ::value,WTEQ::qcFlag";
+    String url1 =
+        "http://wcc.sc.egov.usda.gov/reportGenerator/view_csv/customSingleStationReport/daily/";
+    String url2 =
+        ":SNTL%7Cid=%22%22%7Cname/-6,0/TOBS::value,TMAX::value,TMIN::value,SNWD::value,SNWD::prevValue,WTEQ::value,PREC::value,elevation";
 
-    DefaultCacheManager().getFile(csvurl).listen((f) {
+    String SiteCSVUrl = url1 + "1000:OR" + url2;
+
+    DefaultCacheManager().getFile(SiteCSVUrl).listen((f) {
       setState(() {
         fileInfo = f;
         error = null;
@@ -65,53 +104,49 @@ class _NoaaApiDataState extends State<NoaaApiData> {
   @override
   initState() {
     super.initState();
-    _downloadFile();
+    nrcsCSVData();
+    //_downloadFile();
     // Add listeners to this class
   }
 
   @override
   Widget build(BuildContext context) {
-    var from = "N/A";
-    if(fileInfo != null){
-      from = fileInfo.toString();
-      File(from).readAsString().then((c) => print(c));
-    }
-    return MaterialApp(home: _ResResults());
+    var futureBuilder = new FutureBuilder(
+      future: nrcsCSVData(),
+      builder: (BuildContext context, AsyncSnapshot snapshot) {
+        switch (snapshot.connectionState) {
+          case ConnectionState.none:
+            return new Text("connection state none");
+          case ConnectionState.waiting:
+            return new Text('loading...');
+          default:
+            if (snapshot.hasError)
+              return new Text('Error: ${snapshot.error}');
+            else
+              return createListView(context, snapshot);
+        }
+      },
+    );
+    return Scaffold(appBar: AppBar(title: Text("Site")), body: futureBuilder);
   }
-}
 
-class _ResResults extends StatelessWidget {
-  const _ResResults({Key key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return SafeArea(
-      child: SingleChildScrollView(
-        child: Container(
-          padding: EdgeInsets.all(15),
-          alignment: Alignment(0, 0),
-          color: Colors.black,
-          child: FutureBuilder<String>(
-            future: noaaCSVData(), // a Future<String> or null
-            builder: (BuildContext context, AsyncSnapshot<String> snapshot) {
-              switch (snapshot.connectionState) {
-                case ConnectionState.none:
-                  return new Text('Press button to start');
-                case ConnectionState.waiting:
-                  return new Text('Awaiting result...');
-                default:
-                  if (snapshot.hasError)
-                    return new Text('Error: ${snapshot.error}');
-                  else
-                    return new Text(
-                      'Result: ${snapshot.data}',
-                      style: TextStyle(fontSize: 16, color: Colors.white),
-                    );
-              }
-            },
-          ),
-        ),
-      ),
+  Widget createListView(BuildContext context, AsyncSnapshot snapshot) {
+    List<String> values = snapshot.data;
+    print(snapshot.toString());
+    return new ListView.builder(
+      itemCount: values.length,
+      itemBuilder: (BuildContext context, int index) {
+        return new Column(
+          children: <Widget>[
+            new ListTile(
+              title: new Text(values[index]),
+            ),
+            new Divider(
+              height: 2.0,
+            ),
+          ],
+        );
+      },
     );
   }
 }
