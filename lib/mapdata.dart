@@ -10,6 +10,7 @@ import 'package:http/http.dart' as http;
 import 'package:latlong/latlong.dart';
 import 'package:weather_graph/SnoTelSite.dart';
 import 'package:weather_graph/constants.dart';
+import 'package:weather_graph/noaarestdata.dart';
 
 class MapData extends StatefulWidget {
   MapData({Key key}) : super(key: key);
@@ -39,6 +40,7 @@ class _MapDataState extends State<MapData> {
               sitename: s.name,
               siteelevation: s.elevation,
               siteid: s.siteID,
+              sitestate: s.uSState,
             ),
           ),
         );
@@ -109,8 +111,8 @@ class _MapWidget extends StatelessWidget {
     print("add map");
     return new FlutterMap(
       options: new MapOptions(
-        center: new LatLng(40.0, -120.0),
-        zoom: 8.0,
+        center: new LatLng(39.0, -119.8),
+        zoom: 10.0,
       ),
       layers: [
         TileLayerOptions(
@@ -128,9 +130,9 @@ class _MapWidget extends StatelessWidget {
 //marker bottomsheet
 class _MarkerPopUp extends StatelessWidget {
   //getting sid data from marker into this bottomsheet
-  _MarkerPopUp({Key key, this.sitename, this.siteelevation, this.siteid})
+  _MarkerPopUp({Key key, this.sitestate, this.sitename, this.siteelevation, this.siteid})
       : super(key: key);
-  final String sitename, siteelevation, siteid;
+  final String sitename, siteelevation, siteid, sitestate;
 
   @override
   Widget build(BuildContext context) {
@@ -140,11 +142,16 @@ class _MarkerPopUp extends StatelessWidget {
         child: GestureDetector(
             child: Container(
           child: FloatingActionButton(
+            heroTag: siteid,
             onPressed: () {
-              showBottomSheet(
-                context: context,
-                builder: (context) => OneSiteData(siteid: siteid, siteelevation: siteelevation, sitename: sitename,)
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => NrcsData(sitestate:sitestate,siteid:siteid,sitename:sitename,siteelevation:siteelevation)),
               );
+              // showBottomSheet(
+              //   context: context,
+              //   builder: (context) => OneSiteData(siteid: siteid, siteelevation: siteelevation, sitename: sitename,)
+              // );
             },
             child: Icon(
               Icons.ac_unit,
@@ -159,10 +166,10 @@ class _MarkerPopUp extends StatelessWidget {
 }
 
 class OneSiteData extends StatelessWidget {
-  const OneSiteData({Key key, this.sitename, this.siteelevation, this.siteid})
+  const OneSiteData({Key key, this.sitestate, this.sitename, this.siteelevation, this.siteid})
       : super(key: key);
 
-  final String sitename, siteelevation, siteid;
+  final String sitename, siteelevation, siteid,sitestate;
   @override
   Widget build(BuildContext context) {
     return Container(
